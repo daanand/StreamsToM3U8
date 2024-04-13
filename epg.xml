@@ -1,47 +1,4 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
-  <channel id="Polimer.yt">
-    <display-name lang="en">Polimer News</display-name>
-  </channel>
-  <programme channel="Polimer.yt" start="20240413110000 +0100" stop="20240413140000 +0100">
-    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
-    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
-  </programme>
-  <programme channel="Polimer.yt" start="20240413140000 +0100" stop="20240413170000 +0100">
-    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
-    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
-  </programme>
-  <programme channel="Polimer.yt" start="20240413170000 +0100" stop="20240413200000 +0100">
-    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
-    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
-  </programme>
-  <programme channel="Polimer.yt" start="20240413200000 +0100" stop="20240413230000 +0100">
-    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
-    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
-  </programme>
-  <programme channel="Polimer.yt" start="20240413230000 +0100" stop="20240414020000 +0100">
-    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
-    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
-  </programme>
-  <programme channel="Polimer.yt" start="20240414020000 +0100" stop="20240414050000 +0100">
-    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
-    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
-  </programme>
-  <programme channel="Polimer.yt" start="20240414050000 +0100" stop="20240414080000 +0100">
-    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
-    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
-  </programme>
-  <programme channel="Polimer.yt" start="20240414080000 +0100" stop="20240414110000 +0100">
-    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
-    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
-  </programme>
   <channel id="SunNews.yt">
     <display-name lang="en">Sun News</display-name>
   </channel>
@@ -84,6 +41,49 @@
     <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | General Elections - 2024</title>
     <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 Subscribe to Sun News Channel to stay updated - http://bit.ly/2Yyvgsi🔔 Hit Bell Ico...</desc>
     <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Polimer.yt">
+    <display-name lang="en">Polimer News</display-name>
+  </channel>
+  <programme channel="Polimer.yt" start="20240413110000 +0100" stop="20240413140000 +0100">
+    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
+    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240413140000 +0100" stop="20240413170000 +0100">
+    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
+    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240413170000 +0100" stop="20240413200000 +0100">
+    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
+    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240413200000 +0100" stop="20240413230000 +0100">
+    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
+    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240413230000 +0100" stop="20240414020000 +0100">
+    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
+    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240414020000 +0100" stop="20240414050000 +0100">
+    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
+    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240414050000 +0100" stop="20240414080000 +0100">
+    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
+    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240414080000 +0100" stop="20240414110000 +0100">
+    <title lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | EPS | OPS | ADMK |Annamalai | Election 2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiV...</desc>
+    <icon src="https://i.ytimg.com/vi/kzRXuR-NLCk/hqdefault_live.jpg"/>
   </programme>
   <channel id="puthiyathalaimurai.yt">
     <display-name lang="en">Puthiya thalaimurai News</display-name>
@@ -170,6 +170,49 @@
     <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
     <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
     <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="news18.yt">
+    <display-name lang="en">News 18</display-name>
+  </channel>
+  <programme channel="news18.yt" start="20240413110000 +0100" stop="20240413140000 +0100">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News | Tamil News #AfternoonNews #news18tamilnadu #loksabhaelection...</desc>
+    <icon src="https://i.ytimg.com/vi/NNuLmKmuTSs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240413140000 +0100" stop="20240413170000 +0100">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News | Tamil News #AfternoonNews #news18tamilnadu #loksabhaelection...</desc>
+    <icon src="https://i.ytimg.com/vi/NNuLmKmuTSs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240413170000 +0100" stop="20240413200000 +0100">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News | Tamil News #AfternoonNews #news18tamilnadu #loksabhaelection...</desc>
+    <icon src="https://i.ytimg.com/vi/NNuLmKmuTSs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240413200000 +0100" stop="20240413230000 +0100">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News | Tamil News #AfternoonNews #news18tamilnadu #loksabhaelection...</desc>
+    <icon src="https://i.ytimg.com/vi/NNuLmKmuTSs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240413230000 +0100" stop="20240414020000 +0100">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News | Tamil News #AfternoonNews #news18tamilnadu #loksabhaelection...</desc>
+    <icon src="https://i.ytimg.com/vi/NNuLmKmuTSs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240414020000 +0100" stop="20240414050000 +0100">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News | Tamil News #AfternoonNews #news18tamilnadu #loksabhaelection...</desc>
+    <icon src="https://i.ytimg.com/vi/NNuLmKmuTSs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240414050000 +0100" stop="20240414080000 +0100">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News | Tamil News #AfternoonNews #news18tamilnadu #loksabhaelection...</desc>
+    <icon src="https://i.ytimg.com/vi/NNuLmKmuTSs/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240414080000 +0100" stop="20240414110000 +0100">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | பிற்பகல் முக்கியச் செய்திகள்- 13 April 2024 | Today Afternoon News | Tamil News #AfternoonNews #news18tamilnadu #loksabhaelection...</desc>
+    <icon src="https://i.ytimg.com/vi/NNuLmKmuTSs/maxresdefault_live.jpg"/>
   </programme>
   <channel id="ndtv.yt">
     <display-name lang="en">NDTV</display-name>
