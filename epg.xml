@@ -128,49 +128,6 @@
     <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
     <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
   </programme>
-  <channel id="Thanthi.yt">
-    <display-name lang="en">Thanthi News</display-name>
-  </channel>
-  <programme channel="Thanthi.yt" start="20240413110000 +0100" stop="20240413140000 +0100">
-    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Thanthi.yt" start="20240413140000 +0100" stop="20240413170000 +0100">
-    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Thanthi.yt" start="20240413170000 +0100" stop="20240413200000 +0100">
-    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Thanthi.yt" start="20240413200000 +0100" stop="20240413230000 +0100">
-    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Thanthi.yt" start="20240413230000 +0100" stop="20240414020000 +0100">
-    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Thanthi.yt" start="20240414020000 +0100" stop="20240414050000 +0100">
-    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Thanthi.yt" start="20240414050000 +0100" stop="20240414080000 +0100">
-    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
-  <programme channel="Thanthi.yt" start="20240414080000 +0100" stop="20240414110000 +0100">
-    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
   <channel id="newseighteen.yt">
     <display-name lang="en">News eighteen</display-name>
   </channel>
@@ -213,5 +170,48 @@
     <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Election Commission | DMK | Congress | BJP</title>
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | CM MK Stalin | DMK | Congress | BJPUdhayanidhi Stalin Mega Excluisive :  https://youtube.com/live/93zlX...</desc>
     <icon src="https://i.ytimg.com/vi/D6rDYW2M3mo/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Thanthi.yt">
+    <display-name lang="en">Thanthi News</display-name>
+  </channel>
+  <programme channel="Thanthi.yt" start="20240413110000 +0100" stop="20240413140000 +0100">
+    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240413140000 +0100" stop="20240413170000 +0100">
+    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240413170000 +0100" stop="20240413200000 +0100">
+    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240413200000 +0100" stop="20240413230000 +0100">
+    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240413230000 +0100" stop="20240414020000 +0100">
+    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240414020000 +0100" stop="20240414050000 +0100">
+    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240414050000 +0100" stop="20240414080000 +0100">
+    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240414080000 +0100" stop="20240414110000 +0100">
+    <title lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | ADMK | NTK | Annamalai | PM Modi | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | MK Stalin | BJP | Election 2024 | EPS | Aiadmk | NTK | Annamalai | PM Modi | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news |...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
   </programme>
 </tv>
