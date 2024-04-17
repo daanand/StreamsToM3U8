@@ -1,25 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="SunNews.yt" tvg-name="Sun News" group-title="News", Sun News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713356512/ei/gGofZtyZK-Hrlu8P1sucqA8/ip/172.183.121.83/id/9M02G5c6x6w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2_6jXtplfiM2zhVwm9ojnsZ1V5vpFgN3yXxw9ykQn3AGBUaVBCBi5F4/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANdu8Nyc88IDQHOc-JE1L8lZtqAcj5ZPhL_CGuM4FEL1AiEAizkPFFSAhglZmyJURTA5aJpA6jJl-HeBdUYFys_ao4M%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Polimer.yt" tvg-name="Polimer News" group-title="News", Polimer News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713356513/ei/gWofZraNFe3Jir4Px4ShoAU/ip/172.183.121.83/id/UI1tEhod01E.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_8903boeW3hZw4NepiY9npZKuCJ-dSB79GH09ooLK2IHdmVj9JUXEba/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO-08OOH2nrzC35CapnhgfcT2BrzPuSX1KJvVY3BiadMAiEArtePMUVdaH8_CtjHDDuZIHw7J4Cb57M5NPU216xAtYw%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="puthiyathalaimurai.yt" tvg-name="Puthiya thalaimurai News" group-title="News", Puthiya thalaimurai News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713356514/ei/gmofZr6ZCP3lir4Pp86TOA/ip/172.183.121.83/id/RUzgphgBRzI.115/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw2fOUwbxCPn4t-wRkV0DjnM_YMH__fE2fkkBwFjGaelhZ8faRoJmdV0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIURyHcbr_huBxjLE5mM8zibrBR-xgWUBCoh7uf1ReqACICoZHfHCLp_k2C3UPRtDcAw_iR3OXompiZ_efZHGWyOI/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="newseighteen.yt" tvg-name="News eighteen" group-title="News", News eighteen
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713356515/ei/gmofZvflOvyvlu8PmpmXgAY/ip/172.183.121.83/id/D6rDYW2M3mo.99/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118566/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8yy5PeZXo8f0eEd38Flbd1IMuKphZNDWBn4YIQwzAJwcdTugDLxVrx_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgbsV-9x5wPPsh1Gs7ECHGeCEq0DLU8Hp9WfAD4HCf3GcCIBNE_-twRd2EjFVOsvmhCsK3mtb_OsgEuEgBs4BzIljo/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="Thanthi.yt" tvg-name="Thanthi News" group-title="News", Thanthi News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713356515/ei/g2ofZtzgIq_Olu8PvNqZ4A4/ip/172.183.121.83/id/FeweQREkl44.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f745kT32sIuIgtNl8OtCkEodhxLFg8XvXtsq21JxqP4-AkqcPMXwQ4h1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEHf7SkLCWEjB68DpvpfcIEalUz7Q2_4sWPxXEDvY4jACIQCctcFpI4uLbw3KsODGjKeau8gWRdpFTasUrep3Fc9fwA%3D%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="News7.yt" tvg-name="News7" group-title="News", News7
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="NDTV.yt" tvg-name="NDTV" group-title="News", NDTV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713356517/ei/hWofZsqRBbqMlu8PxsusqA8/ip/172.183.121.83/id/sr2Ry9JVDtU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129853/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_6Z7yjYngPWwaAiXyDWkOaHDrBH1earxY0E04XlovmbyAlEWAzgJf2f/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALpsfBZLbLn5QFD9LXKUtjZraKQMrcITHV8z1p_QpT0oAiEA1fpbOjcZKcFx0ObadoE2iOmE6Enu9souNV88yWvzQq4%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="newstamil.yt" tvg-name="NewsTamil" group-title="News", NewsTamil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713356517/ei/hWofZuK4McOL2_gPq_KqoAI/ip/172.183.121.83/id/kqnwIrHiw2w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118562/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9RRGNCHnhdL_CarHEALGLZGiCci2E0ow0Zd0_eS85WVPf5XCsxETknt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAT244qWg4QVjk7CB4NjTfo0kh8u_4jj-4Smgz40exm0CIFxhYSC6ry71iaRW7loHiS0VxC1YRdENoSF4mbAY66Ak/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
