@@ -257,4 +257,47 @@
     <desc lang="en">Israel struck war-battered Gaza overnight, Hamas and witnesses said Monday, as world leaders urged de-escalation awaiting Israel's reaction to Iran's unprece...</desc>
     <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault_live.jpg"/>
   </programme>
+  <channel id="newstamil.yt">
+    <display-name lang="en">NewsTamil</display-name>
+  </channel>
+  <programme channel="newstamil.yt" start="20240417020000 +0100" stop="20240417050000 +0100">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | Election 2024 | CMStalin | DMK | PMModi | Annamalai | BJP | EPS | ADMK | IPL</title>
+    <desc lang="en">#Election2024 #ParliamentElection2024 #NewsTamil24x7 #electioncampaignlive #electionnews #ElectionUpdate2024 #electionspeech #ElectionUpdate #TNelection #lok...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240417050000 +0100" stop="20240417080000 +0100">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | Election 2024 | CMStalin | DMK | PMModi | Annamalai | BJP | EPS | ADMK | IPL</title>
+    <desc lang="en">#Election2024 #ParliamentElection2024 #NewsTamil24x7 #electioncampaignlive #electionnews #ElectionUpdate2024 #electionspeech #ElectionUpdate #TNelection #lok...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240417080000 +0100" stop="20240417110000 +0100">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | Election 2024 | CMStalin | DMK | PMModi | Annamalai | BJP | EPS | ADMK | IPL</title>
+    <desc lang="en">#Election2024 #ParliamentElection2024 #NewsTamil24x7 #electioncampaignlive #electionnews #ElectionUpdate2024 #electionspeech #ElectionUpdate #TNelection #lok...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240417110000 +0100" stop="20240417140000 +0100">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | Election 2024 | CMStalin | DMK | PMModi | Annamalai | BJP | EPS | ADMK | IPL</title>
+    <desc lang="en">#Election2024 #ParliamentElection2024 #NewsTamil24x7 #electioncampaignlive #electionnews #ElectionUpdate2024 #electionspeech #ElectionUpdate #TNelection #lok...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240417140000 +0100" stop="20240417170000 +0100">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | Election 2024 | CMStalin | DMK | PMModi | Annamalai | BJP | EPS | ADMK | IPL</title>
+    <desc lang="en">#Election2024 #ParliamentElection2024 #NewsTamil24x7 #electioncampaignlive #electionnews #ElectionUpdate2024 #electionspeech #ElectionUpdate #TNelection #lok...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240417170000 +0100" stop="20240417200000 +0100">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | Election 2024 | CMStalin | DMK | PMModi | Annamalai | BJP | EPS | ADMK | IPL</title>
+    <desc lang="en">#Election2024 #ParliamentElection2024 #NewsTamil24x7 #electioncampaignlive #electionnews #ElectionUpdate2024 #electionspeech #ElectionUpdate #TNelection #lok...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240417200000 +0100" stop="20240417230000 +0100">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | Election 2024 | CMStalin | DMK | PMModi | Annamalai | BJP | EPS | ADMK | IPL</title>
+    <desc lang="en">#Election2024 #ParliamentElection2024 #NewsTamil24x7 #electioncampaignlive #electionnews #ElectionUpdate2024 #electionspeech #ElectionUpdate #TNelection #lok...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240417230000 +0100" stop="20240418020000 +0100">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | Election 2024 | CMStalin | DMK | PMModi | Annamalai | BJP | EPS | ADMK | IPL</title>
+    <desc lang="en">#Election2024 #ParliamentElection2024 #NewsTamil24x7 #electioncampaignlive #electionnews #ElectionUpdate2024 #electionspeech #ElectionUpdate #TNelection #lok...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
 </tv>
