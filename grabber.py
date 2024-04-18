@@ -162,18 +162,6 @@ def grab_twitch(url: str):
     stream_url = url_list.get(max_res_key)
     print(stream_url)
 
-def grab_direct(url: str):
-    """
-    :param url:
-    :return:
-    """
-
-    stream_title = channel_name
-    stream_desc = channel_name
-    stream_image_url = ""
-    channels.append((channel_name, channel_id, category, stream_title, stream_desc, stream_image_url))
-print({url})
-
 channel_name = ''
 channel_id = ''
 category = ''
@@ -200,7 +188,11 @@ with open('./streams.txt', encoding='utf-8') as f:
             elif urlparse(line).netloc == 'www.twitch.tv':
                 grab_twitch(line)
             else:
-                grab_direct(line)
+                stream_title = channel_name
+                stream_desc = channel_name
+                stream_image_url = ""
+                channels.append((channel_name, channel_id, category, stream_title,     stream_desc, stream_image_url))
+                print(line)
 
 # Time to build an XMLTV file based on stream data
 channel_xml = build_xml_tv(channels)
