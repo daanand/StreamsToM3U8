@@ -8,13 +8,13 @@ import requests
 from lxml import etree
 from bs4 import BeautifulSoup
 
-tz = pytz.timezone('Europe/London')
+tz = pytz.timezone('Asia/Chennai')
 channels = []
 
 
 def generate_times(curr_dt: datetime):
     """
-Generate 3-hourly blocks of times based on a current date
+Generate 1-hourly blocks of times based on a current date
     :param curr_dt: The current time the script is executed
     :return: A tuple that contains a list of start dates and a list of end dates
     """
@@ -24,14 +24,14 @@ Generate 3-hourly blocks of times based on a current date
     start_dates = [last_hour]
 
     # Generate start times that are spaced out by three hours
-    for x in range(7):
-        last_hour += timedelta(hours=3)
+    for x in range(23):
+        last_hour += timedelta(hours=1)
         start_dates.append(last_hour)
 
     # Copy everything except the first start date to a new list, then add a final end date three hours after the last
     # start date
     end_dates = start_dates[1:]
-    end_dates.append(start_dates[-1] + timedelta(hours=3))
+    end_dates.append(start_dates[-1] + timedelta(hours=1))
 
     return start_dates, end_dates
 
@@ -44,7 +44,7 @@ Build an XMLTV file based on provided stream information
     """
     data = etree.Element("tv")
     data.set("generator-info-name", "youtube-live-epg")
-    data.set("generator-info-url", "https://github.com/dp247/YouTubeToM3U8")
+    data.set("generator-info-url", "https://github.com/daanand/YouTubeToM3U8")
 
     for stream in streams:
         channel = etree.SubElement(data, "channel")
@@ -81,9 +81,9 @@ Grabs the live-streaming M3U8 file from YouTube
     """
     if '&' in url:
         url = url.split('&')[0]
-
+    
     requests.packages.urllib3.disable_warnings()
-    stream_info = requests.get(url, timeout=15)
+    stream_info = requests.get(url, timeout=15, verify=False)
     response = stream_info.text
     soup = BeautifulSoup(stream_info.text, features="html.parser")
 
