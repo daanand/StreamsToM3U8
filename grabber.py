@@ -172,7 +172,7 @@ def grab_direct(url: str):
     stream_desc = channel_name
     stream_image_url = ""
     channels.append((channel_name, channel_id, category, stream_title, stream_desc, stream_image_url))
-print(url)
+print({url})
 
 channel_name = ''
 channel_id = ''
