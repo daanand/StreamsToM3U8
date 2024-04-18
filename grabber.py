@@ -162,6 +162,33 @@ def grab_twitch(url: str):
     stream_url = url_list.get(max_res_key)
     print(stream_url)
 
+def grab_direct(url: str):
+    """
+
+    :param url:
+    :return:
+    """
+    requests.packages.urllib3.disable_warnings()
+    stream_info = requests.get(url, timeout=15)
+    soup = BeautifulSoup(stream_info.text, features="html.parser")
+
+    if stream_info.status_code != 200:
+        print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
+        return
+
+    stream_title = soup.find("meta", property="og:title")["content"].split('-')[0].strip()
+    stream_desc = soup.find("meta", property="og:description")["content"]
+    stream_image_url = soup.find("meta", property="og:image")["content"]
+    channels.append((channel_name, channel_id, category, stream_title, stream_desc, stream_image_url))
+
+    response = requests.get(f"https://pwn.sh/tools/streamapi.py?url={url}").json()["success"]
+    if response == "false":
+        print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
+        return
+    url_list = requests.get(f"https://pwn.sh/tools/streamapi.py?url={url}").json()["urls"]
+    max_res_key = list(url_list)[-1]
+    stream_url = url_list.get(max_res_key)
+    print(stream_url)
 channel_name = ''
 channel_id = ''
 category = ''
@@ -187,6 +214,8 @@ with open('./streams.txt', encoding='utf-8') as f:
                 grab_dailymotion(line)
             elif urlparse(line).netloc == 'www.twitch.tv':
                 grab_twitch(line)
+            else
+                grab_direct(line)
 
 # Time to build an XMLTV file based on stream data
 channel_xml = build_xml_tv(channels)
