@@ -40,5 +40,3 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 7sMusic || 7smusic.direct || Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
-Aathavan || aathavan.direct || Movies
-https://livegeoroueu.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st=1713442586~exp=1713446186~acl=!*/120723/smil:athavantv1.smil/*!yuppTVCom_5_-1_5030f454e1184491_IN_115.97.245.121/payload/yuppTVCom_5_-1_5030f454e1184491_IN_115.97.245.121/*~hmac=dcdb0142a63fa3dec15a03b45de097ad2b28e1740d8d74f051c3cd23404ff2f8&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=4671&ads.channel_name=AthavanTVHD&ads.network_name=yupptv&ads.user=0
