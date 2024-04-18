@@ -164,7 +164,6 @@ def grab_twitch(url: str):
 
 def grab_direct(url: str):
     """
-
     :param url:
     :return:
     """
@@ -174,14 +173,7 @@ def grab_direct(url: str):
     stream_image_url = ""
     channels.append((channel_name, channel_id, category, stream_title, stream_desc, stream_image_url))
 
-    response = requests.get(f"https://pwn.sh/tools/streamapi.py?url={url}").json()["success"]
-    if response == "false":
-        print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
-        return
-    url_list = requests.get(f"https://pwn.sh/tools/streamapi.py?url={url}").json()["urls"]
-    max_res_key = list(url_list)[-1]
-    stream_url = url_list.get(max_res_key)
-    print(stream_url)
+print(url)
 
 channel_name = ''
 channel_id = ''
