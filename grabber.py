@@ -214,7 +214,7 @@ with open('./streams.txt', encoding='utf-8') as f:
                 grab_dailymotion(line)
             elif urlparse(line).netloc == 'www.twitch.tv':
                 grab_twitch(line)
-            else
+            else:
                 grab_direct(line)
 
 # Time to build an XMLTV file based on stream data
