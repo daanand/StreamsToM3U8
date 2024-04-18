@@ -23,7 +23,7 @@ RajNews || RajNews.direct || News
 https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 
 News7 || News7.yt || News
-https://www.youtube.com/live/HOxj-sb02q4?si=EluF3GIIVyC0rHrf
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8?hdnts=st=1713438206~exp=1713441806~acl=!*/240122/news7/*!yuppTVCom_5_-1_9d3c799fc2f54e8b_IN_115.97.245.121/payload/yuppTVCom_5_-1_9d3c799fc2f54e8b_IN_115.97.245.121/*~hmac=9e5af2d03f9343266d7174a019e1f51587245e0fbb62b2d87db9309520641b59&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=2248&ads.channel_name=News7Tamil&ads.network_name=yupptv&ads.user=0
 
 IndiaToday || indiatoday.yt || News
 https://www.youtube.com/live/F62gvYc01B8?si=FSklxxNQUdHxVg-2
