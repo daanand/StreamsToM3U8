@@ -22,8 +22,11 @@ https://www.youtube.com/live/kqnwIrHiw2w?si=NEL0EQ9HBTMuP4xY
 RajNews || RajNews.direct || News
 https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 
-News7 || News7.yt || News
+News7 || News7.direct || News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8?hdnts=st=1713438206~exp=1713441806~acl=!*/240122/news7/*!yuppTVCom_5_-1_9d3c799fc2f54e8b_IN_115.97.245.121/payload/yuppTVCom_5_-1_9d3c799fc2f54e8b_IN_115.97.245.121/*~hmac=9e5af2d03f9343266d7174a019e1f51587245e0fbb62b2d87db9309520641b59&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=2248&ads.channel_name=News7Tamil&ads.network_name=yupptv&ads.user=0
+
+Kalaignar || kalaignar.direct || News
+https://livegeoroueu.akamaized.net/250723/smil:seithagal1.smil/playlist.m3u8?hdnts=st=1713699377~exp=1713702977~acl=!*/250723/smil:seithagal1.smil/*!yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/payload/yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/*~hmac=55e7508f113f184ff263be86b4365dc80df89dc31d3aabaa609a9f348fba49c0&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=446&ads.channel_name=SeithigalTV&ads.network_name=yupptv&ads.user=0
 
 IndiaToday || indiatoday.yt || News
 https://www.youtube.com/live/F62gvYc01B8?si=FSklxxNQUdHxVg-2
@@ -40,3 +43,8 @@ http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 7sMusic || 7smusic.direct || Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 
+Aathavan || Aarhavan.direct || Entertainment
+https://livegeoroueu.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st=1713699088~exp=1713702688~acl=!*/120723/smil:athavantv1.smil/*!yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/payload/yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/*~hmac=93ce09ab79ea28e2bb3318b539d2989328e773c7996a306a48cc89192a4a4544&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=4671&ads.channel_name=AthavanTVHD&ads.network_name=yupptv&ads.user=0
+
+ThalaaTv || ThalaTv.direct || Entertainment
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?hdnts=st=1713699609~exp=1713703209~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/*!yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/payload/yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/*~hmac=f22b3920d7161af5a1bfe4632a7f31190b62675e0d29be397a7a7650774d6ab1&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=MOV&ads.channel=6601&ads.channel_name=THALAATV&ads.network_name=yupptv&ads.user=0
