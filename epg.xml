@@ -983,127 +983,250 @@
     <desc lang="en">RajNews</desc>
     <icon src=""/>
   </programme>
-  <channel id="News7.yt">
+  <channel id="News7.direct">
     <display-name lang="en">News7</display-name>
   </channel>
-  <programme channel="News7.yt" start="20240421110000 +0530" stop="20240421120000 +0530">
+  <programme channel="News7.direct" start="20240421110000 +0530" stop="20240421120000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421120000 +0530" stop="20240421130000 +0530">
+  <programme channel="News7.direct" start="20240421120000 +0530" stop="20240421130000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421130000 +0530" stop="20240421140000 +0530">
+  <programme channel="News7.direct" start="20240421130000 +0530" stop="20240421140000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421140000 +0530" stop="20240421150000 +0530">
+  <programme channel="News7.direct" start="20240421140000 +0530" stop="20240421150000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421150000 +0530" stop="20240421160000 +0530">
+  <programme channel="News7.direct" start="20240421150000 +0530" stop="20240421160000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421160000 +0530" stop="20240421170000 +0530">
+  <programme channel="News7.direct" start="20240421160000 +0530" stop="20240421170000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421170000 +0530" stop="20240421180000 +0530">
+  <programme channel="News7.direct" start="20240421170000 +0530" stop="20240421180000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421180000 +0530" stop="20240421190000 +0530">
+  <programme channel="News7.direct" start="20240421180000 +0530" stop="20240421190000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421190000 +0530" stop="20240421200000 +0530">
+  <programme channel="News7.direct" start="20240421190000 +0530" stop="20240421200000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421200000 +0530" stop="20240421210000 +0530">
+  <programme channel="News7.direct" start="20240421200000 +0530" stop="20240421210000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421210000 +0530" stop="20240421220000 +0530">
+  <programme channel="News7.direct" start="20240421210000 +0530" stop="20240421220000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421220000 +0530" stop="20240421230000 +0530">
+  <programme channel="News7.direct" start="20240421220000 +0530" stop="20240421230000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240421230000 +0530" stop="20240422000000 +0530">
+  <programme channel="News7.direct" start="20240421230000 +0530" stop="20240422000000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422000000 +0530" stop="20240422010000 +0530">
+  <programme channel="News7.direct" start="20240422000000 +0530" stop="20240422010000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422010000 +0530" stop="20240422020000 +0530">
+  <programme channel="News7.direct" start="20240422010000 +0530" stop="20240422020000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422020000 +0530" stop="20240422030000 +0530">
+  <programme channel="News7.direct" start="20240422020000 +0530" stop="20240422030000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422030000 +0530" stop="20240422040000 +0530">
+  <programme channel="News7.direct" start="20240422030000 +0530" stop="20240422040000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422040000 +0530" stop="20240422050000 +0530">
+  <programme channel="News7.direct" start="20240422040000 +0530" stop="20240422050000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422050000 +0530" stop="20240422060000 +0530">
+  <programme channel="News7.direct" start="20240422050000 +0530" stop="20240422060000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422060000 +0530" stop="20240422070000 +0530">
+  <programme channel="News7.direct" start="20240422060000 +0530" stop="20240422070000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422070000 +0530" stop="20240422080000 +0530">
+  <programme channel="News7.direct" start="20240422070000 +0530" stop="20240422080000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422080000 +0530" stop="20240422090000 +0530">
+  <programme channel="News7.direct" start="20240422080000 +0530" stop="20240422090000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422090000 +0530" stop="20240422100000 +0530">
+  <programme channel="News7.direct" start="20240422090000 +0530" stop="20240422100000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
-  <programme channel="News7.yt" start="20240422100000 +0530" stop="20240422110000 +0530">
+  <programme channel="News7.direct" start="20240422100000 +0530" stop="20240422110000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
+    <icon src=""/>
+  </programme>
+  <channel id="kalaignar.direct">
+    <display-name lang="en">Kalaignar</display-name>
+  </channel>
+  <programme channel="kalaignar.direct" start="20240421110000 +0530" stop="20240421120000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421120000 +0530" stop="20240421130000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421130000 +0530" stop="20240421140000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421140000 +0530" stop="20240421150000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421150000 +0530" stop="20240421160000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421160000 +0530" stop="20240421170000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421170000 +0530" stop="20240421180000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421180000 +0530" stop="20240421190000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421190000 +0530" stop="20240421200000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421200000 +0530" stop="20240421210000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421210000 +0530" stop="20240421220000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421220000 +0530" stop="20240421230000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240421230000 +0530" stop="20240422000000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422000000 +0530" stop="20240422010000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422010000 +0530" stop="20240422020000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422020000 +0530" stop="20240422030000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422030000 +0530" stop="20240422040000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422040000 +0530" stop="20240422050000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422050000 +0530" stop="20240422060000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422060000 +0530" stop="20240422070000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422070000 +0530" stop="20240422080000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422080000 +0530" stop="20240422090000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422090000 +0530" stop="20240422100000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240422100000 +0530" stop="20240422110000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
     <icon src=""/>
   </programme>
   <channel id="indiatoday.yt">
@@ -1719,6 +1842,252 @@
   <programme channel="7smusic.direct" start="20240422100000 +0530" stop="20240422110000 +0530">
     <title lang="en">7sMusic</title>
     <desc lang="en">7sMusic</desc>
+    <icon src=""/>
+  </programme>
+  <channel id="Aarhavan.direct">
+    <display-name lang="en">Aathavan</display-name>
+  </channel>
+  <programme channel="Aarhavan.direct" start="20240421110000 +0530" stop="20240421120000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421120000 +0530" stop="20240421130000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421130000 +0530" stop="20240421140000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421140000 +0530" stop="20240421150000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421150000 +0530" stop="20240421160000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421160000 +0530" stop="20240421170000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421170000 +0530" stop="20240421180000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421180000 +0530" stop="20240421190000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421190000 +0530" stop="20240421200000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421200000 +0530" stop="20240421210000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421210000 +0530" stop="20240421220000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421220000 +0530" stop="20240421230000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240421230000 +0530" stop="20240422000000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422000000 +0530" stop="20240422010000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422010000 +0530" stop="20240422020000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422020000 +0530" stop="20240422030000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422030000 +0530" stop="20240422040000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422040000 +0530" stop="20240422050000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422050000 +0530" stop="20240422060000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422060000 +0530" stop="20240422070000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422070000 +0530" stop="20240422080000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422080000 +0530" stop="20240422090000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422090000 +0530" stop="20240422100000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="Aarhavan.direct" start="20240422100000 +0530" stop="20240422110000 +0530">
+    <title lang="en">Aathavan</title>
+    <desc lang="en">Aathavan</desc>
+    <icon src=""/>
+  </programme>
+  <channel id="ThalaTv.direct">
+    <display-name lang="en">ThalaaTv</display-name>
+  </channel>
+  <programme channel="ThalaTv.direct" start="20240421110000 +0530" stop="20240421120000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421120000 +0530" stop="20240421130000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421130000 +0530" stop="20240421140000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421140000 +0530" stop="20240421150000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421150000 +0530" stop="20240421160000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421160000 +0530" stop="20240421170000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421170000 +0530" stop="20240421180000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421180000 +0530" stop="20240421190000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421190000 +0530" stop="20240421200000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421200000 +0530" stop="20240421210000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421210000 +0530" stop="20240421220000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421220000 +0530" stop="20240421230000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240421230000 +0530" stop="20240422000000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422000000 +0530" stop="20240422010000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422010000 +0530" stop="20240422020000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422020000 +0530" stop="20240422030000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422030000 +0530" stop="20240422040000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422040000 +0530" stop="20240422050000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422050000 +0530" stop="20240422060000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422060000 +0530" stop="20240422070000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422070000 +0530" stop="20240422080000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422080000 +0530" stop="20240422090000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422090000 +0530" stop="20240422100000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="ThalaTv.direct" start="20240422100000 +0530" stop="20240422110000 +0530">
+    <title lang="en">ThalaaTv</title>
+    <desc lang="en">ThalaaTv</desc>
     <icon src=""/>
   </programme>
 </tv>
