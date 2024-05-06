@@ -8,7 +8,7 @@ Puthiya thalaimurai News || puthiyathalaimurai.yt || News
 https://www.youtube.com/watch?v=RUzgphgBRzI
 
 News18 || news18.yt || News
-https://www.youtube.com/live/D6rDYW2M3mo?si=gc0E5GMtAFZeNxR7
+https://www.youtube.com/live/lnHtG9YLqo4?si=-qjszeZgSwwGmze9
 
 Thanthi News || Thanthi.yt || News
 https://www.youtube.com/watch?v=FeweQREkl44
@@ -36,15 +36,3 @@ https://www.youtube.com/live/sr2Ry9JVDtU?si=m_oJwv0hwupM63RR
 
 PolimerDirect || polimerdirect.direct || News
 https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
-
-IsaiAruvi || isai.direct || Music
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-
-7sMusic || 7smusic.direct || Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-
-Aathavan || Aarhavan.direct || Entertainment
-https://livegeoroueu.akamaized.net/120723/smil:athavantv1.smil/playlist.m3u8?hdnts=st=1713699088~exp=1713702688~acl=!*/120723/smil:athavantv1.smil/*!yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/payload/yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/*~hmac=93ce09ab79ea28e2bb3318b539d2989328e773c7996a306a48cc89192a4a4544&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=4671&ads.channel_name=AthavanTVHD&ads.network_name=yupptv&ads.user=0
-
-ThalaaTv || ThalaTv.direct || Entertainment
-https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?hdnts=st=1713699609~exp=1713703209~acl=!*/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/*!yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/payload/yuppTVCom_61_-1_ebb981d294224d9a_IN_115.97.245.121/*~hmac=f22b3920d7161af5a1bfe4632a7f31190b62675e0d29be397a7a7650774d6ab1&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=MOV&ads.channel=6601&ads.channel_name=THALAATV&ads.network_name=yupptv&ads.user=0
