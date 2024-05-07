@@ -2,11 +2,6 @@
   <channel id="SunNews.yt">
     <display-name lang="en">Sun News</display-name>
   </channel>
-  <programme channel="SunNews.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
-    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
-    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SunNews.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
     <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
@@ -122,14 +117,14 @@
     <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
     <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="SunNews.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Polimer.yt">
     <display-name lang="en">Polimer News</display-name>
   </channel>
-  <programme channel="Polimer.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">🔴LIVE:Polimer News | PMModi | CM MKStalin | DMK | BJP | ADMK |Annamalai | Election 2024 |12thResults</title>
-    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | ADMK |Annamalai | Election 2024 | 12thResults#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #Mod...</desc>
-    <icon src="https://i.ytimg.com/vi/I_2F7u_u7VA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Polimer.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">🔴LIVE:Polimer News | PMModi | CM MKStalin | DMK | BJP | ADMK |Annamalai | Election 2024 |12thResults</title>
     <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | ADMK |Annamalai | Election 2024 | 12thResults#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #Mod...</desc>
@@ -245,14 +240,14 @@
     <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | ADMK |Annamalai | Election 2024 | 12thResults#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #Mod...</desc>
     <icon src="https://i.ytimg.com/vi/I_2F7u_u7VA/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Polimer.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">🔴LIVE:Polimer News | PMModi | CM MKStalin | DMK | BJP | ADMK |Annamalai | Election 2024 |12thResults</title>
+    <desc lang="en">🔴LIVE: Polimer News | PMModi | CM MKStalin | DMK | BJP | ADMK |Annamalai | Election 2024 | 12thResults#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #Mod...</desc>
+    <icon src="https://i.ytimg.com/vi/I_2F7u_u7VA/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="puthiyathalaimurai.yt">
     <display-name lang="en">Puthiya thalaimurai News</display-name>
   </channel>
-  <programme channel="puthiyathalaimurai.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | 2024 Election | Modi | Rahul Gandhi | DMK | ADMK</title>
-    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
-    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="puthiyathalaimurai.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">🔴LIVE: Puthiyathalaimurai Live | 2024 Election | Modi | Rahul Gandhi | DMK | ADMK</title>
     <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
@@ -368,14 +363,14 @@
     <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
     <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | 2024 Election | Modi | Rahul Gandhi | DMK | ADMK</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="news18.yt">
     <display-name lang="en">News18</display-name>
   </channel>
-  <programme channel="news18.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | 12th Results 2024 | Tamil News</title>
-    <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | 12th Results 2024 | Tamil News #Election2024 #LokSabhaElection2024 #12thresult2024  #su...</desc>
-    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="news18.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | 12th Results 2024 | Tamil News</title>
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | 12th Results 2024 | Tamil News #Election2024 #LokSabhaElection2024 #12thresult2024  #su...</desc>
@@ -491,14 +486,14 @@
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | 12th Results 2024 | Tamil News #Election2024 #LokSabhaElection2024 #12thresult2024  #su...</desc>
     <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
   </programme>
+  <programme channel="news18.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | 12th Results 2024 | Tamil News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | 12th Results 2024 | Tamil News #Election2024 #LokSabhaElection2024 #12thresult2024  #su...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
   <channel id="Thanthi.yt">
     <display-name lang="en">Thanthi News</display-name>
   </channel>
-  <programme channel="Thanthi.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Thanthi.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL</title>
     <desc lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
@@ -614,14 +609,14 @@
     <desc lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
     <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Thanthi.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="NewsJ.Direct">
     <display-name lang="en">NewsJ</display-name>
   </channel>
-  <programme channel="NewsJ.Direct" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">NewsJ</title>
-    <desc lang="en">NewsJ</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="NewsJ.Direct" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">NewsJ</title>
     <desc lang="en">NewsJ</desc>
@@ -737,14 +732,14 @@
     <desc lang="en">NewsJ</desc>
     <icon src=""/>
   </programme>
+  <programme channel="NewsJ.Direct" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">NewsJ</title>
+    <desc lang="en">NewsJ</desc>
+    <icon src=""/>
+  </programme>
   <channel id="newstamil.yt">
     <display-name lang="en">NewsTamil</display-name>
   </channel>
-  <programme channel="newstamil.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">🔴LIVE : NewsTamil 24x7 | Election 2024 | PM Modi | Amit Shah | IPL 2024 | CM Stalin | Gujarat | EPS</title>
-    <desc lang="en">#election2024 #electionnews #pmmodi #newstamilbreaking #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpdate #Election2024 #ParliamentElection2024 #Cm...</desc>
-    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="newstamil.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">🔴LIVE : NewsTamil 24x7 | Election 2024 | PM Modi | Amit Shah | IPL 2024 | CM Stalin | Gujarat | EPS</title>
     <desc lang="en">#election2024 #electionnews #pmmodi #newstamilbreaking #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpdate #Election2024 #ParliamentElection2024 #Cm...</desc>
@@ -860,14 +855,14 @@
     <desc lang="en">#election2024 #electionnews #pmmodi #newstamilbreaking #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpdate #Election2024 #ParliamentElection2024 #Cm...</desc>
     <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="newstamil.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">🔴LIVE : NewsTamil 24x7 | Election 2024 | PM Modi | Amit Shah | IPL 2024 | CM Stalin | Gujarat | EPS</title>
+    <desc lang="en">#election2024 #electionnews #pmmodi #newstamilbreaking #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpdate #Election2024 #ParliamentElection2024 #Cm...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="RajNews.direct">
     <display-name lang="en">RajNews</display-name>
   </channel>
-  <programme channel="RajNews.direct" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">RajNews</title>
-    <desc lang="en">RajNews</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="RajNews.direct" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">RajNews</title>
     <desc lang="en">RajNews</desc>
@@ -983,14 +978,14 @@
     <desc lang="en">RajNews</desc>
     <icon src=""/>
   </programme>
+  <programme channel="RajNews.direct" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">RajNews</title>
+    <desc lang="en">RajNews</desc>
+    <icon src=""/>
+  </programme>
   <channel id="News7.direct">
     <display-name lang="en">News7</display-name>
   </channel>
-  <programme channel="News7.direct" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">News7</title>
-    <desc lang="en">News7</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="News7.direct" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">News7</title>
     <desc lang="en">News7</desc>
@@ -1106,14 +1101,14 @@
     <desc lang="en">News7</desc>
     <icon src=""/>
   </programme>
+  <programme channel="News7.direct" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">News7</title>
+    <desc lang="en">News7</desc>
+    <icon src=""/>
+  </programme>
   <channel id="kalaignar.direct">
     <display-name lang="en">Kalaignar</display-name>
   </channel>
-  <programme channel="kalaignar.direct" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">Kalaignar</title>
-    <desc lang="en">Kalaignar</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="kalaignar.direct" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">Kalaignar</title>
     <desc lang="en">Kalaignar</desc>
@@ -1229,14 +1224,14 @@
     <desc lang="en">Kalaignar</desc>
     <icon src=""/>
   </programme>
+  <programme channel="kalaignar.direct" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
   <channel id="NDTV.yt">
     <display-name lang="en">NDTV</display-name>
   </channel>
-  <programme channel="NDTV.yt" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">NDTV 24x7 Live TV: Kejriwal Bail Plea | Phase 3 Voting | Shekhar Suman | Bengal Jobs Case</title>
-    <desc lang="en">A five-year-old girl has suffered serious injuries in an attack by two Rottweiler dogs at a park in Chennai last night, rekindling the debate over keeping do...</desc>
-    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="NDTV.yt" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">NDTV 24x7 Live TV: Kejriwal Bail Plea | Phase 3 Voting | Shekhar Suman | Bengal Jobs Case</title>
     <desc lang="en">A five-year-old girl has suffered serious injuries in an attack by two Rottweiler dogs at a park in Chennai last night, rekindling the debate over keeping do...</desc>
@@ -1352,14 +1347,14 @@
     <desc lang="en">A five-year-old girl has suffered serious injuries in an attack by two Rottweiler dogs at a park in Chennai last night, rekindling the debate over keeping do...</desc>
     <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="NDTV.yt" start="20240508140000 +0530" stop="20240508150000 +0530">
+    <title lang="en">NDTV 24x7 Live TV: Kejriwal Bail Plea | Phase 3 Voting | Shekhar Suman | Bengal Jobs Case</title>
+    <desc lang="en">A five-year-old girl has suffered serious injuries in an attack by two Rottweiler dogs at a park in Chennai last night, rekindling the debate over keeping do...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="polimerdirect.direct">
     <display-name lang="en">PolimerDirect</display-name>
   </channel>
-  <programme channel="polimerdirect.direct" start="20240507140000 +0530" stop="20240507150000 +0530">
-    <title lang="en">PolimerDirect</title>
-    <desc lang="en">PolimerDirect</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="polimerdirect.direct" start="20240507150000 +0530" stop="20240507160000 +0530">
     <title lang="en">PolimerDirect</title>
     <desc lang="en">PolimerDirect</desc>
@@ -1471,6 +1466,11 @@
     <icon src=""/>
   </programme>
   <programme channel="polimerdirect.direct" start="20240508130000 +0530" stop="20240508140000 +0530">
+    <title lang="en">PolimerDirect</title>
+    <desc lang="en">PolimerDirect</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="polimerdirect.direct" start="20240508140000 +0530" stop="20240508150000 +0530">
     <title lang="en">PolimerDirect</title>
     <desc lang="en">PolimerDirect</desc>
     <icon src=""/>
