@@ -162,6 +162,41 @@ def grab_twitch(url: str):
     stream_url = url_list.get(max_res_key)
     print(stream_url)
 
+def grab_yupp(url: str):
+    """
+Grabs the live-streaming M3U8 file from YouTube
+    :param url: The YouTube URL of the livestream
+    """
+    if '&' in url:
+        url = url.split('&')[0]
+    
+    requests.packages.urllib3.disable_warnings()
+    stream_info = requests.get(url, timeout=15, verify=False)
+    response = stream_info.text
+    soup = BeautifulSoup(stream_info.text, features="html.parser")
+
+
+    if '.m3u8' not in response or stream_info.status_code != 200:
+        print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
+        return
+    end = response.find('.m3u8') + 5
+    tuner = 100
+    while True:
+        if 'https://' in response[end - tuner: end]:
+            link = response[end - tuner: end]
+            start = link.find('https://')
+            end = link.find('user=0') + 5
+
+            stream_title = soup.find("meta", property="og:title")["content"]
+            stream_desc = soup.find("meta", property="og:description")["content"]
+            stream_image_url = soup.find("meta", property="og:image")["content"]
+            channels.append((channel_name, channel_id, category, stream_title, stream_desc, stream_image_url))
+
+            break
+        else:
+            tuner += 5
+    print(f"{link[start: end]}")
+
 channel_name = ''
 channel_id = ''
 category = ''
