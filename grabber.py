@@ -174,27 +174,20 @@ Grabs the live-streaming M3U8 file from YouTube
     stream_info = requests.get(url, timeout=15, verify=False)
     response = stream_info.text
     soup = BeautifulSoup(stream_info.text, features="html.parser")
+    
+    start = response.find('https://')
+    end = response.find('&ads.user=0', start)
 
-    if 'user=0' not in response or stream_info.status_code != 200:
-        print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
-        return
-    end = response.find('user=0') + 5
-    tuner = 200
-    while True:
-        if 'https://' in response[end - tuner: end]:
-            link = response[end - tuner: end]
-            start = link.find('https://')
-            end = link.find('user=0') + 5
-
+    if start != -1 and end != -1:
+        result = response[start:end+len('&ads.user=0')]
+        
             stream_title = soup.find("meta", property="og:title")["content"]
             stream_desc = soup.find("meta", property="og:description")["content"]
             stream_image_url = soup.find("meta", property="og:image")["content"]
             channels.append((channel_name, channel_id, category, stream_title, stream_desc, stream_image_url))
-
-            break
-        else:
-            tuner += 5
-    print(f"{link[start: end]}")
+        print(result)
+    else:
+        print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
 
 channel_name = ''
 channel_id = ''
