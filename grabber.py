@@ -185,7 +185,7 @@ Grabs the live-streaming M3U8 file from YouTube
         if 'https://' in response[end - tuner: end]:
             link = response[end - tuner: end]
             start = link.find('https://')
-            end = link.find('.m3u8') + 5
+            end = link.find('&ads.user=0') + 5
 
             stream_title = soup.find("meta", property="og:title")["content"]
             stream_desc = soup.find("meta", property="og:description")["content"]
