@@ -129,9 +129,9 @@ Grabs the live-streaming M3U8 file from yuppTv
     while True:
         if 'https://' in response[end - tuner: end]:
             link = response[end - tuner: end]
-            print(f"{link}")
+            
             start = link.find('https://')
-            end = link.find('user=0') + 10
+            end = link.find('user=0') + 7
 
             stream_title = soup.find("meta", property="og:title")["content"]
             stream_desc = soup.find("meta", property="og:description")["content"]
