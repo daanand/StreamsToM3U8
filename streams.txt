@@ -1,44 +1,53 @@
-Sun News || SunNews.yt || News
+Sun News || SunNews.yt || All
 https://www.youtube.com/live/9M02G5c6x6w?si=XPeIfYkyLBoUpScT
 
-Polimer News || Polimer.yt || News
+Polimer News || Polimer.yt || All
 https://www.youtube.com/live/I_2F7u_u7VA?si=s7TtwbhZT2aikI7A
 
-Puthiya thalaimurai News || puthiyathalaimurai.yt || News
+Puthiya thalaimurai News || puthiyathalaimurai.yt || All
 https://www.youtube.com/watch?v=RUzgphgBRzI
 
-News18 || news18.yt || News
+News18 || news18.yt || All
 https://www.youtube.com/live/lnHtG9YLqo4?si=-qjszeZgSwwGmze9
 
-Thanthi News || Thanthi.yt || News
+Thanthi News || Thanthi.yt || All
 https://www.youtube.com/watch?v=FeweQREkl44
 
-NewsJ || NewsJ.Direct || News
+NewsJ || NewsJ.Direct || All
 https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
 
-NewsTamil || newstamil.yt || News
+NewsTamil || newstamil.yt || All
 https://www.youtube.com/live/kqnwIrHiw2w?si=NEL0EQ9HBTMuP4xY
 
-RajNews || RajNews.direct || News
+RajNews || RajNews.direct || All
 https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
 
-News7 || News7.direct || News
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8?hdnts=st=1713438206~exp=1713441806~acl=!*/240122/news7/*!yuppTVCom_5_-1_9d3c799fc2f54e8b_IN_115.97.245.121/payload/yuppTVCom_5_-1_9d3c799fc2f54e8b_IN_115.97.245.121/*~hmac=9e5af2d03f9343266d7174a019e1f51587245e0fbb62b2d87db9309520641b59&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=NEWS&ads.channel=2248&ads.channel_name=News7Tamil&ads.network_name=yupptv&ads.user=0
+News7 || News7.direct || All
+https://www.yupptv.com/online-tv/moon-tv/live
 
-Kalaignar || kalaignar.direct || News
+Kalaignar || kalaignar.direct || All
 https://www.youtube.com/live/yxVo5zANRZw?si=1OmOaGsgsAgQCRxS
 
-IndiaToday || indiatoday.yt || News
+IndiaToday || indiatoday.yt || All
 https://www.youtube.com/live/sYZtOFzM78M?si=nc7mkQywRrR1-kre
 
-NDTV || NDTV.yt || News
+NDTV || NDTV.yt || All
 https://www.youtube.com/live/sr2Ry9JVDtU?si=m_oJwv0hwupM63RR
 
-PolimerDirect || polimerdirect.direct || News
+PolimerDirect || polimerdirect.direct || All
 https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
-pepperTV || peppertv.yupp || Entertainment
+pepperTV || peppertv.yupp || All
 https://www.yupptv.com/online-tv/peppers-tv/live
 
-moonTV || moontv.direct || Entertainment
-https://yuppftalive.akamaized.net/080823/moontv/playlist.m3u8?hdnts=st=1715583351~exp=1715586951~acl=!*/080823/moontv/*!yuppTVCom_5_-1_68f7c8281a7143e1_IN_115.99.38.92/payload/yuppTVCom_5_-1_68f7c8281a7143e1_IN_115.99.38.92/*~hmac=0e396cd02278a99c04d2919eccbc75bf24d4c348b4fb4c99e59bc1e498e4ea0a&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=TAM&ads.content_genre=ENT&ads.channel=6418&ads.channel_name=MoonTV&ads.network_name=yupptv&ads.user=0
+moonTV || moontv.direct || All
+https://www.yupptv.com/online-tv/moon-tv/live
+
+thalaaTV || thalaaTV.yupp || All
+https://www.yupptv.com/online-tv/thalaa-tv/live
+
+4KTravel || 4KTravel.yupp || All
+https://www.yupptv.com/online-tv/4k-travel-tv/live
+
+athavan || athavan.yupp || All
+https://www.yupptv.com/online-tv/athavan-tv-hd/live
