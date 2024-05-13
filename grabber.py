@@ -121,17 +121,17 @@ Grabs the live-streaming M3U8 file from yuppTv
     soup = BeautifulSoup(stream_info.text, features="html.parser")
    
     
-    if '&ads.user=0' not in response or stream_info.status_code != 200:
+    if 'user=0' not in response or stream_info.status_code != 200:
         print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
         return
-    end = response.find('&ads.user=0') + 5
+    end = response.find('user=0') + 5
     tuner = 100
     while True:
         if 'https://' in response[end - tuner: end]:
             link = response[end - tuner: end]
             print(f"{link}")
             start = link.find('https://')
-            end = link.find('&ads.user=0') + 5
+            end = link.find('user=0') + 5
 
             stream_title = soup.find("meta", property="og:title")["content"]
             stream_desc = soup.find("meta", property="og:description")["content"]
