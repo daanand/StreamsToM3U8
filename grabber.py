@@ -167,27 +167,35 @@ def grab_yupp(url: str):
 Grabs the live-streaming M3U8 file from YouTube
     :param url: The YouTube URL of the livestream
     """
-    if '&' in url:
+       if '&' in url:
         url = url.split('&')[0]
     
     requests.packages.urllib3.disable_warnings()
     stream_info = requests.get(url, timeout=15, verify=False)
     response = stream_info.text
     soup = BeautifulSoup(stream_info.text, features="html.parser")
-    
-    start = response.find('https://')
-    end = response.find('&ads.user=0', start)
 
-    if start != -1 and end != -1:
-        result = response[start:end+len('&ads.user=0')]
-        
+
+    if '.m3u8' not in response or stream_info.status_code != 200:
+        print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
+        return
+    end = response.find('.m3u8') + 5
+    tuner = 100
+    while True:
+        if 'https://' in response[end - tuner: end]:
+            start = response.find('https://')
+            end = response.find('&ads.user=0', start)
+            result = response[start:end+len('&ads.user=0')]
+            
             stream_title = soup.find("meta", property="og:title")["content"]
             stream_desc = soup.find("meta", property="og:description")["content"]
             stream_image_url = soup.find("meta", property="og:image")["content"]
             channels.append((channel_name, channel_id, category, stream_title, stream_desc, stream_image_url))
-        print(result)
-    else:
-        print("https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4")
+
+            break
+        else:
+            tuner += 5
+    print(result)
 
 channel_name = ''
 channel_id = ''
