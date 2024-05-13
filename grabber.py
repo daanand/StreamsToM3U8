@@ -222,6 +222,8 @@ with open('./streams.txt', encoding='utf-8') as f:
                 grab_dailymotion(line)
             elif urlparse(line).netloc == 'www.twitch.tv':
                 grab_twitch(line)
+            elif urlparse(line).netloc == 'www.yupptv.com':
+                grab_yupp(line)    
             else:
                 stream_title = channel_name
                 stream_desc = channel_name
