@@ -2,11 +2,6 @@
   <channel id="SunNews.yt">
     <display-name lang="en">Sun News</display-name>
   </channel>
-  <programme channel="SunNews.yt" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
-    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
-    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SunNews.yt" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
     <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
@@ -122,14 +117,14 @@
     <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
     <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="SunNews.yt" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Polimer.yt">
     <display-name lang="en">Polimer News</display-name>
   </channel>
-  <programme channel="Polimer.yt" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">🔴LIVE:Polimer News | TN Rains | PMModi | CM MKStalin | DMK | BJP | ADMK | Election2024</title>
-    <desc lang="en">🔴LIVE:Polimer News | TN Rains | PMModi | CM MKStalin | DMK | BJP | ADMK | Election2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiVisitKanniyakum...</desc>
-    <icon src="https://i.ytimg.com/vi/I_2F7u_u7VA/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Polimer.yt" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">🔴LIVE:Polimer News | TN Rains | PMModi | CM MKStalin | DMK | BJP | ADMK | Election2024</title>
     <desc lang="en">🔴LIVE:Polimer News | TN Rains | PMModi | CM MKStalin | DMK | BJP | ADMK | Election2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiVisitKanniyakum...</desc>
@@ -245,14 +240,14 @@
     <desc lang="en">🔴LIVE:Polimer News | TN Rains | PMModi | CM MKStalin | DMK | BJP | ADMK | Election2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiVisitKanniyakum...</desc>
     <icon src="https://i.ytimg.com/vi/I_2F7u_u7VA/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Polimer.yt" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">🔴LIVE:Polimer News | TN Rains | PMModi | CM MKStalin | DMK | BJP | ADMK | Election2024</title>
+    <desc lang="en">🔴LIVE:Polimer News | TN Rains | PMModi | CM MKStalin | DMK | BJP | ADMK | Election2024#PMModi | #Kanniyakumari | #BJP | #NarendraModi | #ModiVisitKanniyakum...</desc>
+    <icon src="https://i.ytimg.com/vi/I_2F7u_u7VA/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="puthiyathalaimurai.yt">
     <display-name lang="en">Puthiya thalaimurai News</display-name>
   </channel>
-  <programme channel="puthiyathalaimurai.yt" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | 2024 Election | Modi | Rahul Gandhi | DMK | ADMK</title>
-    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
-    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="puthiyathalaimurai.yt" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">🔴LIVE: Puthiyathalaimurai Live | 2024 Election | Modi | Rahul Gandhi | DMK | ADMK</title>
     <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
@@ -368,14 +363,14 @@
     <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
     <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | 2024 Election | Modi | Rahul Gandhi | DMK | ADMK</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ElectionCommission  #Election2024 #ParliamentElection  #loksabhaelectiondate #electiondate #2024electiondate #...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="news18.yt">
     <display-name lang="en">News18</display-name>
   </channel>
-  <programme channel="news18.yt" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Lok Sabha Election 2024 | Summer | PM Modi | Tamil News</title>
-    <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | BJP | PM Modi | Tamil News | CM MK Stalin | News18 Tamil Nadu Today News | Annamalai | ...</desc>
-    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="news18.yt" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Lok Sabha Election 2024 | Summer | PM Modi | Tamil News</title>
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | BJP | PM Modi | Tamil News | CM MK Stalin | News18 Tamil Nadu Today News | Annamalai | ...</desc>
@@ -491,14 +486,14 @@
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | BJP | PM Modi | Tamil News | CM MK Stalin | News18 Tamil Nadu Today News | Annamalai | ...</desc>
     <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
   </programme>
+  <programme channel="news18.yt" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Lok Sabha Election 2024 | Summer | PM Modi | Tamil News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024 | Summer | NEET | BJP | PM Modi | Tamil News | CM MK Stalin | News18 Tamil Nadu Today News | Annamalai | ...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
   <channel id="Thanthi.yt">
     <display-name lang="en">Thanthi News</display-name>
   </channel>
-  <programme channel="Thanthi.yt" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Thanthi.yt" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL</title>
     <desc lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
@@ -614,14 +609,14 @@
     <desc lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
     <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Thanthi.yt" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Lok Sabha Election polling | TN Lok Sabha Election | PM Modi | தேர்தல் 2024 | IPL#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="NewsJ.Direct">
     <display-name lang="en">NewsJ</display-name>
   </channel>
-  <programme channel="NewsJ.Direct" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">NewsJ</title>
-    <desc lang="en">NewsJ</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="NewsJ.Direct" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">NewsJ</title>
     <desc lang="en">NewsJ</desc>
@@ -737,14 +732,14 @@
     <desc lang="en">NewsJ</desc>
     <icon src=""/>
   </programme>
+  <programme channel="NewsJ.Direct" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">NewsJ</title>
+    <desc lang="en">NewsJ</desc>
+    <icon src=""/>
+  </programme>
   <channel id="newstamil.yt">
     <display-name lang="en">NewsTamil</display-name>
   </channel>
-  <programme channel="newstamil.yt" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">🔴LIVE : NewsTamil 24x7 | Election 2024 | PM Modi | Amit Shah | IPL 2024 | CM Stalin | TN Rains</title>
-    <desc lang="en">#election2024 #electionnews #pmmodi #newstamilbreaking #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpdate #Election2024 #ParliamentElection2024 #Cm...</desc>
-    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="newstamil.yt" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">🔴LIVE : NewsTamil 24x7 | Election 2024 | PM Modi | Amit Shah | IPL 2024 | CM Stalin | TN Rains</title>
     <desc lang="en">#election2024 #electionnews #pmmodi #newstamilbreaking #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpdate #Election2024 #ParliamentElection2024 #Cm...</desc>
@@ -860,14 +855,14 @@
     <desc lang="en">#election2024 #electionnews #pmmodi #newstamilbreaking #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpdate #Election2024 #ParliamentElection2024 #Cm...</desc>
     <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="newstamil.yt" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">🔴LIVE : NewsTamil 24x7 | Election 2024 | PM Modi | Amit Shah | IPL 2024 | CM Stalin | TN Rains</title>
+    <desc lang="en">#election2024 #electionnews #pmmodi #newstamilbreaking #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpdate #Election2024 #ParliamentElection2024 #Cm...</desc>
+    <icon src="https://i.ytimg.com/vi/kqnwIrHiw2w/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="RajNews.direct">
     <display-name lang="en">RajNews</display-name>
   </channel>
-  <programme channel="RajNews.direct" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">RajNews</title>
-    <desc lang="en">RajNews</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="RajNews.direct" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">RajNews</title>
     <desc lang="en">RajNews</desc>
@@ -983,14 +978,14 @@
     <desc lang="en">RajNews</desc>
     <icon src=""/>
   </programme>
+  <programme channel="RajNews.direct" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">RajNews</title>
+    <desc lang="en">RajNews</desc>
+    <icon src=""/>
+  </programme>
   <channel id="News7.direct">
     <display-name lang="en">News7</display-name>
   </channel>
-  <programme channel="News7.direct" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">News7 Tamil Live | Tamil Latest News Live | Tamil Breaking News | Tamil News Today</title>
-    <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/News-7.png"/>
-  </programme>
   <programme channel="News7.direct" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">News7 Tamil Live | Tamil Latest News Live | Tamil Breaking News | Tamil News Today</title>
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
@@ -1106,14 +1101,14 @@
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/News-7.png"/>
   </programme>
+  <programme channel="News7.direct" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">News7 Tamil Live | Tamil Latest News Live | Tamil Breaking News | Tamil News Today</title>
+    <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/News-7.png"/>
+  </programme>
   <channel id="kalaignar.direct">
     <display-name lang="en">Kalaignar</display-name>
   </channel>
-  <programme channel="kalaignar.direct" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">🔴 LIVE: Kalaignar News | கலைஞர் செய்திகள் | CM Stalin | DMK | | Tamilnadu | News Update | Elections</title>
-    <desc lang="en">🔴 LIVE: Kalaignar News | கலைஞர் செய்திகள் | CM Stalin | DMK | | Tamilnadu | News Update | Elections#cmstalin #election #dmk  #cmmkstalin #tamilnewstoday #ka...</desc>
-    <icon src="https://i.ytimg.com/vi/yxVo5zANRZw/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="kalaignar.direct" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">🔴 LIVE: Kalaignar News | கலைஞர் செய்திகள் | CM Stalin | DMK | | Tamilnadu | News Update | Elections</title>
     <desc lang="en">🔴 LIVE: Kalaignar News | கலைஞர் செய்திகள் | CM Stalin | DMK | | Tamilnadu | News Update | Elections#cmstalin #election #dmk  #cmmkstalin #tamilnewstoday #ka...</desc>
@@ -1229,14 +1224,14 @@
     <desc lang="en">🔴 LIVE: Kalaignar News | கலைஞர் செய்திகள் | CM Stalin | DMK | | Tamilnadu | News Update | Elections#cmstalin #election #dmk  #cmmkstalin #tamilnewstoday #ka...</desc>
     <icon src="https://i.ytimg.com/vi/yxVo5zANRZw/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="kalaignar.direct" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">🔴 LIVE: Kalaignar News | கலைஞர் செய்திகள் | CM Stalin | DMK | | Tamilnadu | News Update | Elections</title>
+    <desc lang="en">🔴 LIVE: Kalaignar News | கலைஞர் செய்திகள் | CM Stalin | DMK | | Tamilnadu | News Update | Elections#cmstalin #election #dmk  #cmmkstalin #tamilnewstoday #ka...</desc>
+    <icon src="https://i.ytimg.com/vi/yxVo5zANRZw/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="indiatoday.yt">
     <display-name lang="en">IndiaToday</display-name>
   </channel>
-  <programme channel="indiatoday.yt" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">India Today LIVE TV: Arvind Kejriwal To Visit BJP Headquarters | Swati Maliwal News | 2024 Elections</title>
-    <desc lang="en">Delhi Chief Minister Arvind Kejriwal and Aam Aadmi Party (AAP) leaders will march to the BJP office today amid the ongoing blame game between the AAP and Raj...</desc>
-    <icon src="https://i.ytimg.com/vi/sYZtOFzM78M/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="indiatoday.yt" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">India Today LIVE TV: Arvind Kejriwal To Visit BJP Headquarters | Swati Maliwal News | 2024 Elections</title>
     <desc lang="en">Delhi Chief Minister Arvind Kejriwal and Aam Aadmi Party (AAP) leaders will march to the BJP office today amid the ongoing blame game between the AAP and Raj...</desc>
@@ -1352,14 +1347,14 @@
     <desc lang="en">Delhi Chief Minister Arvind Kejriwal and Aam Aadmi Party (AAP) leaders will march to the BJP office today amid the ongoing blame game between the AAP and Raj...</desc>
     <icon src="https://i.ytimg.com/vi/sYZtOFzM78M/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="indiatoday.yt" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">India Today LIVE TV: Arvind Kejriwal To Visit BJP Headquarters | Swati Maliwal News | 2024 Elections</title>
+    <desc lang="en">Delhi Chief Minister Arvind Kejriwal and Aam Aadmi Party (AAP) leaders will march to the BJP office today amid the ongoing blame game between the AAP and Raj...</desc>
+    <icon src="https://i.ytimg.com/vi/sYZtOFzM78M/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="NDTV.yt">
     <display-name lang="en">NDTV</display-name>
   </channel>
-  <programme channel="NDTV.yt" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">NDTV 24x7 Live : Arvind Kejriwal LIVE | PM Modi | Bibhav Kumar | Swati Maliwal Case | Election 2024</title>
-    <desc lang="en">In a strong statement after Delhi Chief Minister Arvind Kejriwal was granted interim bail to campaign for the Lok Sabha elections, Home Minister Amit Shah ha...</desc>
-    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="NDTV.yt" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">NDTV 24x7 Live : Arvind Kejriwal LIVE | PM Modi | Bibhav Kumar | Swati Maliwal Case | Election 2024</title>
     <desc lang="en">In a strong statement after Delhi Chief Minister Arvind Kejriwal was granted interim bail to campaign for the Lok Sabha elections, Home Minister Amit Shah ha...</desc>
@@ -1475,14 +1470,14 @@
     <desc lang="en">In a strong statement after Delhi Chief Minister Arvind Kejriwal was granted interim bail to campaign for the Lok Sabha elections, Home Minister Amit Shah ha...</desc>
     <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="NDTV.yt" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">NDTV 24x7 Live : Arvind Kejriwal LIVE | PM Modi | Bibhav Kumar | Swati Maliwal Case | Election 2024</title>
+    <desc lang="en">In a strong statement after Delhi Chief Minister Arvind Kejriwal was granted interim bail to campaign for the Lok Sabha elections, Home Minister Amit Shah ha...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="polimerdirect.direct">
     <display-name lang="en">PolimerDirect</display-name>
   </channel>
-  <programme channel="polimerdirect.direct" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">PolimerDirect</title>
-    <desc lang="en">PolimerDirect</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="polimerdirect.direct" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">PolimerDirect</title>
     <desc lang="en">PolimerDirect</desc>
@@ -1598,14 +1593,14 @@
     <desc lang="en">PolimerDirect</desc>
     <icon src=""/>
   </programme>
+  <programme channel="polimerdirect.direct" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">PolimerDirect</title>
+    <desc lang="en">PolimerDirect</desc>
+    <icon src=""/>
+  </programme>
   <channel id="peppertv.yupp">
     <display-name lang="en">pepperTV</display-name>
   </channel>
-  <programme channel="peppertv.yupp" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
-    <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="peppertv.yupp" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
     <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
@@ -1721,14 +1716,14 @@
     <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="peppertv.yupp" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
+    <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="moontv.direct">
     <display-name lang="en">moonTV</display-name>
   </channel>
-  <programme channel="moontv.direct" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
-    <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="moontv.direct" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
     <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
@@ -1844,14 +1839,14 @@
     <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="moontv.direct" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
+    <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="thalaaTV.yupp">
     <display-name lang="en">thalaaTV</display-name>
   </channel>
-  <programme channel="thalaaTV.yupp" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
-    <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="thalaaTV.yupp" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
     <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
@@ -1967,14 +1962,14 @@
     <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="thalaaTV.yupp" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
+    <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="4KTravel.yupp">
     <display-name lang="en">4KTravel</display-name>
   </channel>
-  <programme channel="4KTravel.yupp" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="4KTravel.yupp" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
     <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
@@ -2090,14 +2085,14 @@
     <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="4KTravel.yupp" start="20240520070000 +0530" stop="20240520080000 +0530">
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="athavan.yupp">
     <display-name lang="en">athavan</display-name>
   </channel>
-  <programme channel="athavan.yupp" start="20240519070000 +0530" stop="20240519080000 +0530">
-    <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
-    <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="athavan.yupp" start="20240519080000 +0530" stop="20240519090000 +0530">
     <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
     <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
@@ -2209,6 +2204,11 @@
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="athavan.yupp" start="20240520060000 +0530" stop="20240520070000 +0530">
+    <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
+    <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="athavan.yupp" start="20240520070000 +0530" stop="20240520080000 +0530">
     <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
     <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
