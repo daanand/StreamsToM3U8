@@ -1,4 +1,619 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/daanand/YouTubeToM3U8">
+  <channel id="SunNews.yt">
+    <display-name lang="en">Sun News</display-name>
+  </channel>
+  <programme channel="SunNews.yt" start="20240528130000 +0530" stop="20240528140000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528140000 +0530" stop="20240528150000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528150000 +0530" stop="20240528160000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528160000 +0530" stop="20240528170000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528170000 +0530" stop="20240528180000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528180000 +0530" stop="20240528190000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528190000 +0530" stop="20240528200000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528200000 +0530" stop="20240528210000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528210000 +0530" stop="20240528220000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528220000 +0530" stop="20240528230000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240528230000 +0530" stop="20240529000000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529000000 +0530" stop="20240529010000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529010000 +0530" stop="20240529020000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529020000 +0530" stop="20240529030000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529030000 +0530" stop="20240529040000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529040000 +0530" stop="20240529050000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529050000 +0530" stop="20240529060000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529060000 +0530" stop="20240529070000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529070000 +0530" stop="20240529080000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529080000 +0530" stop="20240529090000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529090000 +0530" stop="20240529100000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529100000 +0530" stop="20240529110000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529110000 +0530" stop="20240529120000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SunNews.yt" start="20240529120000 +0530" stop="20240529130000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Tamil News | Latest News | Trending News | IPL | Loksabha Elections - 2024</title>
+    <desc lang="en">#sunnewslive #sunnews #GeneralElections2024 #indiaelections2024 #ipl2024 #loksabhaelection2024, #election2024, #2024elections #tnelection2024 Subscribe to Su...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="Polimer.yt">
+    <display-name lang="en">Polimer News</display-name>
+  </channel>
+  <programme channel="Polimer.yt" start="20240528130000 +0530" stop="20240528140000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528140000 +0530" stop="20240528150000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528150000 +0530" stop="20240528160000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528160000 +0530" stop="20240528170000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528170000 +0530" stop="20240528180000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528180000 +0530" stop="20240528190000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528190000 +0530" stop="20240528200000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528200000 +0530" stop="20240528210000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528210000 +0530" stop="20240528220000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528220000 +0530" stop="20240528230000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240528230000 +0530" stop="20240529000000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529000000 +0530" stop="20240529010000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529010000 +0530" stop="20240529020000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529020000 +0530" stop="20240529030000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529030000 +0530" stop="20240529040000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529040000 +0530" stop="20240529050000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529050000 +0530" stop="20240529060000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529060000 +0530" stop="20240529070000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529070000 +0530" stop="20240529080000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529080000 +0530" stop="20240529090000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529090000 +0530" stop="20240529100000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529100000 +0530" stop="20240529110000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529110000 +0530" stop="20240529120000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="Polimer.yt" start="20240529120000 +0530" stop="20240529130000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <channel id="puthiyathalaimurai.yt">
+    <display-name lang="en">Puthiya thalaimurai News</display-name>
+  </channel>
+  <programme channel="puthiyathalaimurai.yt" start="20240528130000 +0530" stop="20240528140000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528140000 +0530" stop="20240528150000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528150000 +0530" stop="20240528160000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528160000 +0530" stop="20240528170000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528170000 +0530" stop="20240528180000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528180000 +0530" stop="20240528190000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528190000 +0530" stop="20240528200000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528200000 +0530" stop="20240528210000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528210000 +0530" stop="20240528220000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528220000 +0530" stop="20240528230000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240528230000 +0530" stop="20240529000000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529000000 +0530" stop="20240529010000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529010000 +0530" stop="20240529020000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529020000 +0530" stop="20240529030000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529030000 +0530" stop="20240529040000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529040000 +0530" stop="20240529050000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529050000 +0530" stop="20240529060000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529060000 +0530" stop="20240529070000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529070000 +0530" stop="20240529080000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529080000 +0530" stop="20240529090000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529090000 +0530" stop="20240529100000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529100000 +0530" stop="20240529110000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529110000 +0530" stop="20240529120000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240529120000 +0530" stop="20240529130000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai Live | Lok Sabha Elections 2024 | TN Rains | DMK | ADMK | Modi | IPL 2024</title>
+    <desc lang="en">#puthiyathalaimurailive #loksabhaelection2024 #ipl2024 #dmk #admk #modi #rahulgandhi  #ElectionCommission #Election2024 #ParliamentElection #breakingnews #el...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
+  <channel id="news18.yt">
+    <display-name lang="en">News18</display-name>
+  </channel>
+  <programme channel="news18.yt" start="20240528130000 +0530" stop="20240528140000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528140000 +0530" stop="20240528150000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528150000 +0530" stop="20240528160000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528160000 +0530" stop="20240528170000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528170000 +0530" stop="20240528180000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528180000 +0530" stop="20240528190000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528190000 +0530" stop="20240528200000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528200000 +0530" stop="20240528210000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528210000 +0530" stop="20240528220000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528220000 +0530" stop="20240528230000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240528230000 +0530" stop="20240529000000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529000000 +0530" stop="20240529010000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529010000 +0530" stop="20240529020000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529020000 +0530" stop="20240529030000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529030000 +0530" stop="20240529040000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529040000 +0530" stop="20240529050000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529050000 +0530" stop="20240529060000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529060000 +0530" stop="20240529070000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529070000 +0530" stop="20240529080000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529080000 +0530" stop="20240529090000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529090000 +0530" stop="20240529100000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529100000 +0530" stop="20240529110000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529110000 +0530" stop="20240529120000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <programme channel="news18.yt" start="20240529120000 +0530" stop="20240529130000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Lok Sabha Election 2024   | BJP vs Congress | TN Rain | CM MK Stalin</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | CM MK Stalin | Election 2024 | BJP vs Congress | Rain | Tamil News |  #Election2024 #LokSabhaElection2024 #12thresult2024  #summe...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
+  <channel id="Thanthi.yt">
+    <display-name lang="en">Thanthi News</display-name>
+  </channel>
+  <programme channel="Thanthi.yt" start="20240528130000 +0530" stop="20240528140000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528140000 +0530" stop="20240528150000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528150000 +0530" stop="20240528160000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528160000 +0530" stop="20240528170000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528170000 +0530" stop="20240528180000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528180000 +0530" stop="20240528190000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528190000 +0530" stop="20240528200000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528200000 +0530" stop="20240528210000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528210000 +0530" stop="20240528220000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528220000 +0530" stop="20240528230000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240528230000 +0530" stop="20240529000000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529000000 +0530" stop="20240529010000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529010000 +0530" stop="20240529020000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529020000 +0530" stop="20240529030000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529030000 +0530" stop="20240529040000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529040000 +0530" stop="20240529050000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529050000 +0530" stop="20240529060000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529060000 +0530" stop="20240529070000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529070000 +0530" stop="20240529080000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529080000 +0530" stop="20240529090000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529090000 +0530" stop="20240529100000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529100000 +0530" stop="20240529110000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529110000 +0530" stop="20240529120000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="Thanthi.yt" start="20240529120000 +0530" stop="20240529130000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | Modi VS Rahul Gandhi | CM Stalin | Lok Sabha Election polling 2024 | BJP | AIADMK#thanthitv | #liveupdates | #tamilnadu | #india | #news ...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="NewsJ.Direct">
     <display-name lang="en">NewsJ</display-name>
   </channel>
@@ -121,6 +736,129 @@
     <title lang="en">NewsJ</title>
     <desc lang="en">NewsJ</desc>
     <icon src=""/>
+  </programme>
+  <channel id="newstamil.yt">
+    <display-name lang="en">NewsTamil</display-name>
+  </channel>
+  <programme channel="newstamil.yt" start="20240528130000 +0530" stop="20240528140000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528140000 +0530" stop="20240528150000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528150000 +0530" stop="20240528160000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528160000 +0530" stop="20240528170000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528170000 +0530" stop="20240528180000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528180000 +0530" stop="20240528190000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528190000 +0530" stop="20240528200000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528200000 +0530" stop="20240528210000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528210000 +0530" stop="20240528220000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528220000 +0530" stop="20240528230000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240528230000 +0530" stop="20240529000000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529000000 +0530" stop="20240529010000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529010000 +0530" stop="20240529020000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529020000 +0530" stop="20240529030000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529030000 +0530" stop="20240529040000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529040000 +0530" stop="20240529050000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529050000 +0530" stop="20240529060000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529060000 +0530" stop="20240529070000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529070000 +0530" stop="20240529080000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529080000 +0530" stop="20240529090000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529090000 +0530" stop="20240529100000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529100000 +0530" stop="20240529110000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529110000 +0530" stop="20240529120000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="newstamil.yt" start="20240529120000 +0530" stop="20240529130000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 | T20 World Cup 2024 | Election 2024 | PM Modi | CM Stalin | Weather Update</title>
+    <desc lang="en">#newstamil24x7 #newstamil24x7live  #TNRains #Election2024 #IPL2024 #PMModi #CMStalin #WeatherUpdate #cmstalin #liveupdates #livestream  #IPL #IPL2024 #IplUpd...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
   </programme>
   <channel id="RajNews.direct">
     <display-name lang="en">RajNews</display-name>
@@ -490,6 +1228,129 @@
     <title lang="en">Kalaignar</title>
     <desc lang="en">Kalaignar</desc>
     <icon src=""/>
+  </programme>
+  <channel id="indiatoday.yt">
+    <display-name lang="en">IndiaToday</display-name>
+  </channel>
+  <programme channel="indiatoday.yt" start="20240528130000 +0530" stop="20240528140000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528140000 +0530" stop="20240528150000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528150000 +0530" stop="20240528160000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528160000 +0530" stop="20240528170000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528170000 +0530" stop="20240528180000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528180000 +0530" stop="20240528190000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528190000 +0530" stop="20240528200000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528200000 +0530" stop="20240528210000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528210000 +0530" stop="20240528220000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528220000 +0530" stop="20240528230000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240528230000 +0530" stop="20240529000000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529000000 +0530" stop="20240529010000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529010000 +0530" stop="20240529020000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529020000 +0530" stop="20240529030000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529030000 +0530" stop="20240529040000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529040000 +0530" stop="20240529050000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529050000 +0530" stop="20240529060000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529060000 +0530" stop="20240529070000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529070000 +0530" stop="20240529080000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529080000 +0530" stop="20240529090000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529090000 +0530" stop="20240529100000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529100000 +0530" stop="20240529110000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529110000 +0530" stop="20240529120000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="indiatoday.yt" start="20240529120000 +0530" stop="20240529130000 +0530">
+    <title lang="en">India Today LIVE TV: Lok Sabha Polls 2024 | Pune Porsche Horror | Cyclone Remal News | Breaking News</title>
+    <desc lang="en">Two people were killed in West Bengal as cyclone Remal left a trail of widespread destruction across West Bengal after making landfall between the coasts of ...</desc>
+    <icon src="https://i.ytimg.com/vi/XfrT7c08Gyg/maxresdefault_live.jpg"/>
   </programme>
   <channel id="polimerdirect.direct">
     <display-name lang="en">PolimerDirect</display-name>
