@@ -368,6 +368,129 @@
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/News-7.png"/>
   </programme>
+  <channel id="kalaignar.direct">
+    <display-name lang="en">Kalaignar</display-name>
+  </channel>
+  <programme channel="kalaignar.direct" start="20240528130000 +0530" stop="20240528140000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528140000 +0530" stop="20240528150000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528150000 +0530" stop="20240528160000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528160000 +0530" stop="20240528170000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528170000 +0530" stop="20240528180000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528180000 +0530" stop="20240528190000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528190000 +0530" stop="20240528200000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528200000 +0530" stop="20240528210000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528210000 +0530" stop="20240528220000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528220000 +0530" stop="20240528230000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240528230000 +0530" stop="20240529000000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529000000 +0530" stop="20240529010000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529010000 +0530" stop="20240529020000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529020000 +0530" stop="20240529030000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529030000 +0530" stop="20240529040000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529040000 +0530" stop="20240529050000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529050000 +0530" stop="20240529060000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529060000 +0530" stop="20240529070000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529070000 +0530" stop="20240529080000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529080000 +0530" stop="20240529090000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529090000 +0530" stop="20240529100000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529100000 +0530" stop="20240529110000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529110000 +0530" stop="20240529120000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="kalaignar.direct" start="20240529120000 +0530" stop="20240529130000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
   <channel id="polimerdirect.direct">
     <display-name lang="en">PolimerDirect</display-name>
   </channel>
