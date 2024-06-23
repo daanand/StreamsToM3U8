@@ -2,11 +2,6 @@
   <channel id="SunNews.yt">
     <display-name lang="en">Sun News</display-name>
   </channel>
-  <programme channel="SunNews.yt" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">🔴LIVE : Sun News Live | Latest News | Trending News | Kallakurichi | MK Stalin | EPS | Modi | NEET</title>
-    <desc lang="en">#sunnewslive #sunnews #modi #neet2024 #neet #neetnews #neetnewstoday #dmknews #mkstalin #tamilnadunews #kallakurichi #kallakurichinews #kallakurichiliquornew...</desc>
-    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SunNews.yt" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">🔴LIVE : Sun News Live | Latest News | Trending News | Kallakurichi | MK Stalin | EPS | Modi | NEET</title>
     <desc lang="en">#sunnewslive #sunnews #modi #neet2024 #neet #neetnews #neetnewstoday #dmknews #mkstalin #tamilnadunews #kallakurichi #kallakurichinews #kallakurichiliquornew...</desc>
@@ -122,14 +117,14 @@
     <desc lang="en">#sunnewslive #sunnews #modi #neet2024 #neet #neetnews #neetnewstoday #dmknews #mkstalin #tamilnadunews #kallakurichi #kallakurichinews #kallakurichiliquornew...</desc>
     <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="SunNews.yt" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Latest News | Trending News | Kallakurichi | MK Stalin | EPS | Modi | NEET</title>
+    <desc lang="en">#sunnewslive #sunnews #modi #neet2024 #neet #neetnews #neetnewstoday #dmknews #mkstalin #tamilnadunews #kallakurichi #kallakurichinews #kallakurichiliquornew...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="puthiyathalaimurai.yt">
     <display-name lang="en">Puthiya thalaimurai News</display-name>
   </channel>
-  <programme channel="puthiyathalaimurai.yt" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">🔴LIVE: Puthiyathalaimurai News |Kallakurichi Counterfeit Liquor Issue|Manjolai Case|NEET |Vikravandi</title>
-    <desc lang="en">#puthiyathalaimurailive #vikravandibyelection #westbengaltrainaccident #sasikala #kuwaitbuildingfire #chandrababunaidu #neet #election2024 #modiscabinate #ra...</desc>
-    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="puthiyathalaimurai.yt" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">🔴LIVE: Puthiyathalaimurai News |Kallakurichi Counterfeit Liquor Issue|Manjolai Case|NEET |Vikravandi</title>
     <desc lang="en">#puthiyathalaimurailive #vikravandibyelection #westbengaltrainaccident #sasikala #kuwaitbuildingfire #chandrababunaidu #neet #election2024 #modiscabinate #ra...</desc>
@@ -245,14 +240,14 @@
     <desc lang="en">#puthiyathalaimurailive #vikravandibyelection #westbengaltrainaccident #sasikala #kuwaitbuildingfire #chandrababunaidu #neet #election2024 #modiscabinate #ra...</desc>
     <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai News |Kallakurichi Counterfeit Liquor Issue|Manjolai Case|NEET |Vikravandi</title>
+    <desc lang="en">#puthiyathalaimurailive #vikravandibyelection #westbengaltrainaccident #sasikala #kuwaitbuildingfire #chandrababunaidu #neet #election2024 #modiscabinate #ra...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="news18.yt">
     <display-name lang="en">News18</display-name>
   </channel>
-  <programme channel="news18.yt" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly | DMK | CM MK Stalin | Congress | Tamil News</title>
-    <desc lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly | DMK | CM MK Stalin | Congress | Tamil News #News18TamilNadu #TamilNews #todaynews SUBSCRIBE - http:/...</desc>
-    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="news18.yt" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly | DMK | CM MK Stalin | Congress | Tamil News</title>
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly | DMK | CM MK Stalin | Congress | Tamil News #News18TamilNadu #TamilNews #todaynews SUBSCRIBE - http:/...</desc>
@@ -368,14 +363,14 @@
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly | DMK | CM MK Stalin | Congress | Tamil News #News18TamilNadu #TamilNews #todaynews SUBSCRIBE - http:/...</desc>
     <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
   </programme>
+  <programme channel="news18.yt" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly | DMK | CM MK Stalin | Congress | Tamil News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly | DMK | CM MK Stalin | Congress | Tamil News #News18TamilNadu #TamilNews #todaynews SUBSCRIBE - http:/...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
   <channel id="Thanthi.yt">
     <display-name lang="en">Thanthi News</display-name>
   </channel>
-  <programme channel="Thanthi.yt" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">🔴LIVE: ThanthiTV | PM Modi | Kallakurichi Issue | DMK | ADMK | TN Rain | T20 World cup</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | PM Modi | Kallakurichi Hooch Tragedy | DMK | ADMK | TN Rain | T20 World cup#thanthitv | #liveupdates | #tamilnadu | #india | #news | #lat...</desc>
-    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Thanthi.yt" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">🔴LIVE: ThanthiTV | PM Modi | Kallakurichi Issue | DMK | ADMK | TN Rain | T20 World cup</title>
     <desc lang="en">🔴LIVE: ThanthiTV | PM Modi | Kallakurichi Hooch Tragedy | DMK | ADMK | TN Rain | T20 World cup#thanthitv | #liveupdates | #tamilnadu | #india | #news | #lat...</desc>
@@ -491,14 +486,14 @@
     <desc lang="en">🔴LIVE: ThanthiTV | PM Modi | Kallakurichi Hooch Tragedy | DMK | ADMK | TN Rain | T20 World cup#thanthitv | #liveupdates | #tamilnadu | #india | #news | #lat...</desc>
     <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Thanthi.yt" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">🔴LIVE: ThanthiTV | PM Modi | Kallakurichi Issue | DMK | ADMK | TN Rain | T20 World cup</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | PM Modi | Kallakurichi Hooch Tragedy | DMK | ADMK | TN Rain | T20 World cup#thanthitv | #liveupdates | #tamilnadu | #india | #news | #lat...</desc>
+    <icon src="https://i.ytimg.com/vi/FeweQREkl44/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="NewsJ.Direct">
     <display-name lang="en">NewsJ</display-name>
   </channel>
-  <programme channel="NewsJ.Direct" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">NewsJ</title>
-    <desc lang="en">NewsJ</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="NewsJ.Direct" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">NewsJ</title>
     <desc lang="en">NewsJ</desc>
@@ -614,14 +609,14 @@
     <desc lang="en">NewsJ</desc>
     <icon src=""/>
   </programme>
+  <programme channel="NewsJ.Direct" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">NewsJ</title>
+    <desc lang="en">NewsJ</desc>
+    <icon src=""/>
+  </programme>
   <channel id="newstamil.yt">
     <display-name lang="en">NewsTamil</display-name>
   </channel>
-  <programme channel="newstamil.yt" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">🔴LIVE: NewsTamil 24x7 Live | TN Assembly Session | Kallakurichi | PM Modi| MK Stalin | EPS | TNRains</title>
-    <desc lang="en">#newstamil24x7 | #newstamil24x7live | #PMModi | #CMStalin | #NarendraModi | #neetissue #neet2024 #tnrain  #rainupdate #Vikravandi | #T20WorldCup | #liveupdat...</desc>
-    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="newstamil.yt" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">🔴LIVE: NewsTamil 24x7 Live | TN Assembly Session | Kallakurichi | PM Modi| MK Stalin | EPS | TNRains</title>
     <desc lang="en">#newstamil24x7 | #newstamil24x7live | #PMModi | #CMStalin | #NarendraModi | #neetissue #neet2024 #tnrain  #rainupdate #Vikravandi | #T20WorldCup | #liveupdat...</desc>
@@ -737,14 +732,14 @@
     <desc lang="en">#newstamil24x7 | #newstamil24x7live | #PMModi | #CMStalin | #NarendraModi | #neetissue #neet2024 #tnrain  #rainupdate #Vikravandi | #T20WorldCup | #liveupdat...</desc>
     <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="newstamil.yt" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">🔴LIVE: NewsTamil 24x7 Live | TN Assembly Session | Kallakurichi | PM Modi| MK Stalin | EPS | TNRains</title>
+    <desc lang="en">#newstamil24x7 | #newstamil24x7live | #PMModi | #CMStalin | #NarendraModi | #neetissue #neet2024 #tnrain  #rainupdate #Vikravandi | #T20WorldCup | #liveupdat...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="RajNews.direct">
     <display-name lang="en">RajNews</display-name>
   </channel>
-  <programme channel="RajNews.direct" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">RajNews</title>
-    <desc lang="en">RajNews</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="RajNews.direct" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">RajNews</title>
     <desc lang="en">RajNews</desc>
@@ -860,14 +855,14 @@
     <desc lang="en">RajNews</desc>
     <icon src=""/>
   </programme>
+  <programme channel="RajNews.direct" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">RajNews</title>
+    <desc lang="en">RajNews</desc>
+    <icon src=""/>
+  </programme>
   <channel id="kalaignar.direct">
     <display-name lang="en">Kalaignar</display-name>
   </channel>
-  <programme channel="kalaignar.direct" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">Kalaignar</title>
-    <desc lang="en">Kalaignar</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="kalaignar.direct" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">Kalaignar</title>
     <desc lang="en">Kalaignar</desc>
@@ -983,14 +978,14 @@
     <desc lang="en">Kalaignar</desc>
     <icon src=""/>
   </programme>
+  <programme channel="kalaignar.direct" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
   <channel id="indiatoday.yt">
     <display-name lang="en">IndiaToday</display-name>
   </channel>
-  <programme channel="indiatoday.yt" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">India Today Live TV: NEET-PG Exam Postponed | Arvind Kejriwal LIVE Updates | Breaking News</title>
-    <desc lang="en">In a big setback for Arvind Kejriwal, the Delhi High Court granted an interim stay on his bail order in the liquor policy case. Now, the court will pronounce...</desc>
-    <icon src="https://i.ytimg.com/vi/J1YT_XdABvo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="indiatoday.yt" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">India Today Live TV: NEET-PG Exam Postponed | Arvind Kejriwal LIVE Updates | Breaking News</title>
     <desc lang="en">In a big setback for Arvind Kejriwal, the Delhi High Court granted an interim stay on his bail order in the liquor policy case. Now, the court will pronounce...</desc>
@@ -1106,14 +1101,14 @@
     <desc lang="en">In a big setback for Arvind Kejriwal, the Delhi High Court granted an interim stay on his bail order in the liquor policy case. Now, the court will pronounce...</desc>
     <icon src="https://i.ytimg.com/vi/J1YT_XdABvo/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="indiatoday.yt" start="20240624160000 +0530" stop="20240624170000 +0530">
+    <title lang="en">India Today Live TV: NEET-PG Exam Postponed | Arvind Kejriwal LIVE Updates | Breaking News</title>
+    <desc lang="en">In a big setback for Arvind Kejriwal, the Delhi High Court granted an interim stay on his bail order in the liquor policy case. Now, the court will pronounce...</desc>
+    <icon src="https://i.ytimg.com/vi/J1YT_XdABvo/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="polimerdirect.direct">
     <display-name lang="en">PolimerDirect</display-name>
   </channel>
-  <programme channel="polimerdirect.direct" start="20240623160000 +0530" stop="20240623170000 +0530">
-    <title lang="en">PolimerDirect</title>
-    <desc lang="en">PolimerDirect</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="polimerdirect.direct" start="20240623170000 +0530" stop="20240623180000 +0530">
     <title lang="en">PolimerDirect</title>
     <desc lang="en">PolimerDirect</desc>
@@ -1225,6 +1220,11 @@
     <icon src=""/>
   </programme>
   <programme channel="polimerdirect.direct" start="20240624150000 +0530" stop="20240624160000 +0530">
+    <title lang="en">PolimerDirect</title>
+    <desc lang="en">PolimerDirect</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="polimerdirect.direct" start="20240624160000 +0530" stop="20240624170000 +0530">
     <title lang="en">PolimerDirect</title>
     <desc lang="en">PolimerDirect</desc>
     <icon src=""/>
