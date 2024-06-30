@@ -2,11 +2,6 @@
   <channel id="SunNews.yt">
     <display-name lang="en">Sun News</display-name>
   </channel>
-  <programme channel="SunNews.yt" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">🔴LIVE : Sun News Live | Latest News | Trending News | Tamil News | MK Stalin | TN Assembly | NEET</title>
-    <desc lang="en">#sunnewslive #sunnews #modi #neet2024 #neet #neetnews #neetnewstoday #dmknews #mkstalin #tamilnadunews #kallakurichi #kallakurichinews #kallakurichiliquornew...</desc>
-    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SunNews.yt" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">🔴LIVE : Sun News Live | Latest News | Trending News | Tamil News | MK Stalin | TN Assembly | NEET</title>
     <desc lang="en">#sunnewslive #sunnews #modi #neet2024 #neet #neetnews #neetnewstoday #dmknews #mkstalin #tamilnadunews #kallakurichi #kallakurichinews #kallakurichiliquornew...</desc>
@@ -122,14 +117,14 @@
     <desc lang="en">#sunnewslive #sunnews #modi #neet2024 #neet #neetnews #neetnewstoday #dmknews #mkstalin #tamilnadunews #kallakurichi #kallakurichinews #kallakurichiliquornew...</desc>
     <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="SunNews.yt" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Latest News | Trending News | Tamil News | MK Stalin | TN Assembly | NEET</title>
+    <desc lang="en">#sunnewslive #sunnews #modi #neet2024 #neet #neetnews #neetnewstoday #dmknews #mkstalin #tamilnadunews #kallakurichi #kallakurichinews #kallakurichiliquornew...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Polimer.yt">
     <display-name lang="en">Polimer News</display-name>
   </channel>
-  <programme channel="Polimer.yt" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
-    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="Polimer.yt" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
     <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
@@ -245,14 +240,14 @@
     <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="Polimer.yt" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">Polimer News Online | Watch Polimer News Live | Polimer News Tamil Live</title>
+    <desc lang="en">Watch Polimer News Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Polimer News on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="puthiyathalaimurai.yt">
     <display-name lang="en">Puthiya thalaimurai News</display-name>
   </channel>
-  <programme channel="puthiyathalaimurai.yt" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">🔴LIVE: Puthiyathalaimurai News |Kallakurichi Counterfeit Liquor Issue|Manjolai Case|NEET |Vikravandi</title>
-    <desc lang="en">#puthiyathalaimurailive #vikravandibyelection #westbengaltrainaccident #sasikala #kuwaitbuildingfire #chandrababunaidu #neet #election2024 #modiscabinate #ra...</desc>
-    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="puthiyathalaimurai.yt" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">🔴LIVE: Puthiyathalaimurai News |Kallakurichi Counterfeit Liquor Issue|Manjolai Case|NEET |Vikravandi</title>
     <desc lang="en">#puthiyathalaimurailive #vikravandibyelection #westbengaltrainaccident #sasikala #kuwaitbuildingfire #chandrababunaidu #neet #election2024 #modiscabinate #ra...</desc>
@@ -368,14 +363,14 @@
     <desc lang="en">#puthiyathalaimurailive #vikravandibyelection #westbengaltrainaccident #sasikala #kuwaitbuildingfire #chandrababunaidu #neet #election2024 #modiscabinate #ra...</desc>
     <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai News |Kallakurichi Counterfeit Liquor Issue|Manjolai Case|NEET |Vikravandi</title>
+    <desc lang="en">#puthiyathalaimurailive #vikravandibyelection #westbengaltrainaccident #sasikala #kuwaitbuildingfire #chandrababunaidu #neet #election2024 #modiscabinate #ra...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="news18.yt">
     <display-name lang="en">News18</display-name>
   </channel>
-  <programme channel="news18.yt" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly Session | MK Stalin | TVK Vijay | Tamil News</title>
-    <desc lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly Session | MK Stalin | TVK Vijay | Tamil News | tamizhaga vetrikazhagam| TN Rain Updates | chennai Weat...</desc>
-    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="news18.yt" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly Session | MK Stalin | TVK Vijay | Tamil News</title>
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly Session | MK Stalin | TVK Vijay | Tamil News | tamizhaga vetrikazhagam| TN Rain Updates | chennai Weat...</desc>
@@ -491,14 +486,14 @@
     <desc lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly Session | MK Stalin | TVK Vijay | Tamil News | tamizhaga vetrikazhagam| TN Rain Updates | chennai Weat...</desc>
     <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
   </programme>
+  <programme channel="news18.yt" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly Session | MK Stalin | TVK Vijay | Tamil News</title>
+    <desc lang="en">🔴LIVE: News18 Tamil Nadu | Kallakurichi | TN Assembly Session | MK Stalin | TVK Vijay | Tamil News | tamizhaga vetrikazhagam| TN Rain Updates | chennai Weat...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
   <channel id="NewsJ.Direct">
     <display-name lang="en">NewsJ</display-name>
   </channel>
-  <programme channel="NewsJ.Direct" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">NewsJ</title>
-    <desc lang="en">NewsJ</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="NewsJ.Direct" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">NewsJ</title>
     <desc lang="en">NewsJ</desc>
@@ -614,14 +609,14 @@
     <desc lang="en">NewsJ</desc>
     <icon src=""/>
   </programme>
+  <programme channel="NewsJ.Direct" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">NewsJ</title>
+    <desc lang="en">NewsJ</desc>
+    <icon src=""/>
+  </programme>
   <channel id="newstamil.yt">
     <display-name lang="en">NewsTamil</display-name>
   </channel>
-  <programme channel="newstamil.yt" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">🔴LIVE : NewsTamil 24x7 Live | Vijay | TVK | TN Assembly Session | Kallakurichi | MK Stalin | EPS</title>
-    <desc lang="en">#newstamil24x7 | #newstamil24x7live | #PMModi | #CMStalin | #NarendraModi | #neetissue #neet2024 #tnrain  #rainupdate #Vikravandi | #T20WorldCup | #liveupdat...</desc>
-    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="newstamil.yt" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">🔴LIVE : NewsTamil 24x7 Live | Vijay | TVK | TN Assembly Session | Kallakurichi | MK Stalin | EPS</title>
     <desc lang="en">#newstamil24x7 | #newstamil24x7live | #PMModi | #CMStalin | #NarendraModi | #neetissue #neet2024 #tnrain  #rainupdate #Vikravandi | #T20WorldCup | #liveupdat...</desc>
@@ -737,14 +732,14 @@
     <desc lang="en">#newstamil24x7 | #newstamil24x7live | #PMModi | #CMStalin | #NarendraModi | #neetissue #neet2024 #tnrain  #rainupdate #Vikravandi | #T20WorldCup | #liveupdat...</desc>
     <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="newstamil.yt" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">🔴LIVE : NewsTamil 24x7 Live | Vijay | TVK | TN Assembly Session | Kallakurichi | MK Stalin | EPS</title>
+    <desc lang="en">#newstamil24x7 | #newstamil24x7live | #PMModi | #CMStalin | #NarendraModi | #neetissue #neet2024 #tnrain  #rainupdate #Vikravandi | #T20WorldCup | #liveupdat...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="RajNews.direct">
     <display-name lang="en">RajNews</display-name>
   </channel>
-  <programme channel="RajNews.direct" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">RajNews</title>
-    <desc lang="en">RajNews</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="RajNews.direct" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">RajNews</title>
     <desc lang="en">RajNews</desc>
@@ -860,14 +855,14 @@
     <desc lang="en">RajNews</desc>
     <icon src=""/>
   </programme>
+  <programme channel="RajNews.direct" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">RajNews</title>
+    <desc lang="en">RajNews</desc>
+    <icon src=""/>
+  </programme>
   <channel id="News7.direct">
     <display-name lang="en">News7</display-name>
   </channel>
-  <programme channel="News7.direct" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">News7 Tamil Live | Tamil Latest News Live | Tamil Breaking News | Tamil News Today</title>
-    <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/News-7.png"/>
-  </programme>
   <programme channel="News7.direct" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">News7 Tamil Live | Tamil Latest News Live | Tamil Breaking News | Tamil News Today</title>
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
@@ -983,14 +978,14 @@
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
     <icon src="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/News-7.png"/>
   </programme>
+  <programme channel="News7.direct" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">News7 Tamil Live | Tamil Latest News Live | Tamil Breaking News | Tamil News Today</title>
+    <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/News-7.png"/>
+  </programme>
   <channel id="kalaignar.direct">
     <display-name lang="en">Kalaignar</display-name>
   </channel>
-  <programme channel="kalaignar.direct" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">Kalaignar</title>
-    <desc lang="en">Kalaignar</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="kalaignar.direct" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">Kalaignar</title>
     <desc lang="en">Kalaignar</desc>
@@ -1106,14 +1101,14 @@
     <desc lang="en">Kalaignar</desc>
     <icon src=""/>
   </programme>
+  <programme channel="kalaignar.direct" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
   <channel id="indiatoday.yt">
     <display-name lang="en">IndiaToday</display-name>
   </channel>
-  <programme channel="indiatoday.yt" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">India Today Live TV: India Wins T20 WC 2024 | Ladakh Tank Accident | Rahul's Mic Muted? | UGC-NET</title>
-    <desc lang="en">India Today Live TV: India Wins T20 WC 2024 | Ladakh Tank Accident | Rahul's Mic Muted? | UGC-NETT20 World Cup 2024, India vs South Africa: Jasprit Bumrah, A...</desc>
-    <icon src="https://i.ytimg.com/vi/J1YT_XdABvo/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="indiatoday.yt" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">India Today Live TV: India Wins T20 WC 2024 | Ladakh Tank Accident | Rahul's Mic Muted? | UGC-NET</title>
     <desc lang="en">India Today Live TV: India Wins T20 WC 2024 | Ladakh Tank Accident | Rahul's Mic Muted? | UGC-NETT20 World Cup 2024, India vs South Africa: Jasprit Bumrah, A...</desc>
@@ -1229,14 +1224,14 @@
     <desc lang="en">India Today Live TV: India Wins T20 WC 2024 | Ladakh Tank Accident | Rahul's Mic Muted? | UGC-NETT20 World Cup 2024, India vs South Africa: Jasprit Bumrah, A...</desc>
     <icon src="https://i.ytimg.com/vi/J1YT_XdABvo/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="indiatoday.yt" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">India Today Live TV: India Wins T20 WC 2024 | Ladakh Tank Accident | Rahul's Mic Muted? | UGC-NET</title>
+    <desc lang="en">India Today Live TV: India Wins T20 WC 2024 | Ladakh Tank Accident | Rahul's Mic Muted? | UGC-NETT20 World Cup 2024, India vs South Africa: Jasprit Bumrah, A...</desc>
+    <icon src="https://i.ytimg.com/vi/J1YT_XdABvo/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="polimerdirect.direct">
     <display-name lang="en">PolimerDirect</display-name>
   </channel>
-  <programme channel="polimerdirect.direct" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">PolimerDirect</title>
-    <desc lang="en">PolimerDirect</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="polimerdirect.direct" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">PolimerDirect</title>
     <desc lang="en">PolimerDirect</desc>
@@ -1352,14 +1347,14 @@
     <desc lang="en">PolimerDirect</desc>
     <icon src=""/>
   </programme>
+  <programme channel="polimerdirect.direct" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">PolimerDirect</title>
+    <desc lang="en">PolimerDirect</desc>
+    <icon src=""/>
+  </programme>
   <channel id="peppertv.yupp">
     <display-name lang="en">pepperTV</display-name>
   </channel>
-  <programme channel="peppertv.yupp" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
-    <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="peppertv.yupp" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
     <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
@@ -1475,14 +1470,14 @@
     <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="peppertv.yupp" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
+    <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="moontv.direct">
     <display-name lang="en">moonTV</display-name>
   </channel>
-  <programme channel="moontv.direct" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
-    <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="moontv.direct" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
     <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
@@ -1598,14 +1593,14 @@
     <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="moontv.direct" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
+    <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="thalaaTV.yupp">
     <display-name lang="en">thalaaTV</display-name>
   </channel>
-  <programme channel="thalaaTV.yupp" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
-    <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="thalaaTV.yupp" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
     <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
@@ -1721,137 +1716,137 @@
     <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="thalaaTV.yupp" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
+    <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="4KTravel.yupp">
     <display-name lang="en">4KTravel</display-name>
   </channel>
-  <programme channel="4KTravel.yupp" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="4KTravel.yupp" start="20240630090000 +0530" stop="20240630100000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630100000 +0530" stop="20240630110000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630110000 +0530" stop="20240630120000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630120000 +0530" stop="20240630130000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630130000 +0530" stop="20240630140000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630140000 +0530" stop="20240630150000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630150000 +0530" stop="20240630160000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630160000 +0530" stop="20240630170000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630170000 +0530" stop="20240630180000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630180000 +0530" stop="20240630190000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630190000 +0530" stop="20240630200000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630200000 +0530" stop="20240630210000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630210000 +0530" stop="20240630220000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630220000 +0530" stop="20240630230000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240630230000 +0530" stop="20240701000000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240701000000 +0530" stop="20240701010000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240701010000 +0530" stop="20240701020000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240701020000 +0530" stop="20240701030000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240701030000 +0530" stop="20240701040000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240701040000 +0530" stop="20240701050000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240701050000 +0530" stop="20240701060000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240701060000 +0530" stop="20240701070000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="4KTravel.yupp" start="20240701070000 +0530" stop="20240701080000 +0530">
-    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV  Live</title>
-    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="4KTravel.yupp" start="20240701080000 +0530" stop="20240701090000 +0530">
+    <title lang="en">4K TRAVEL TV Online | Watch 4K TRAVEL TV Live | 4K TRAVEL TV English Live</title>
+    <desc lang="en">Watch 4K TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel 4K TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <channel id="athavan.yupp">
     <display-name lang="en">athavan</display-name>
   </channel>
-  <programme channel="athavan.yupp" start="20240630080000 +0530" stop="20240630090000 +0530">
-    <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
-    <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="athavan.yupp" start="20240630090000 +0530" stop="20240630100000 +0530">
     <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
     <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
@@ -1963,6 +1958,11 @@
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="athavan.yupp" start="20240701070000 +0530" stop="20240701080000 +0530">
+    <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
+    <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="athavan.yupp" start="20240701080000 +0530" stop="20240701090000 +0530">
     <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
     <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
