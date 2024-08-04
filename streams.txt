@@ -26,7 +26,7 @@ RajNews || RajNews.direct || All
 https://www.youtube.com/live/F4UlryJOIJ0?si=NJ2cG5Gm23-JIpzv
 
 News7 || News7.direct || All
-https://www.yupptv.com/channels/news7tamil/live
+http://www.yupptv.com/yupptvnew/online-tv/news7tamil/live
 
 Kalaignar || kalaignar.direct || All
 https://youtu.be/tr5pT_fmiRg?si=81d_K0-6rql6KMhe
@@ -41,16 +41,16 @@ PolimerDirect || polimerdirect.direct || All
 https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
 
 pepperTV || peppertv.yupp || All
-https://www.yupptv.com/online-tv/peppers-tv/live
+http://www.yupptv.com/yupptvnew/online-tv/peppers-tv/live
 
 moonTV || moontv.direct || All
-https://www.yupptv.com/online-tv/moon-tv/live
+http://www.yupptv.com/yupptvnew/online-tv/moon-tv/live
 
 thalaaTV || thalaaTV.yupp || All
 https://www.yupptv.com/online-tv/thalaa-tv/live
 
 4KTravel || 4KTravel.yupp || All
-https://www.yupptv.com/online-tv/4k-travel-tv/live
+http://www.yupptv.com/yupptvnew/online-tv/hd-travel-tv/live
 
 athavan || athavan.yupp || All
 https://www.yupptv.com/online-tv/athavan-tv-hd/live
