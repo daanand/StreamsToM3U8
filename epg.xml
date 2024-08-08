@@ -2,11 +2,6 @@
   <channel id="SunNews.yt">
     <display-name lang="en">Sun News</display-name>
   </channel>
-  <programme channel="SunNews.yt" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">🔴LIVE : Sun News Live | Latest News | Wayanad landslide | Vinesh Phogat | Trending News | Tamil news</title>
-    <desc lang="en">#sunnewslive  #sunnews #wayanad | #SchoolLeave | #Chennairain | #TNRain | #Kalaignar#mkstalin #hogenakkalwaterfalls #hogenakkal #krsdam #tamilnadunews #chenn...</desc>
-    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="SunNews.yt" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">🔴LIVE : Sun News Live | Latest News | Wayanad landslide | Vinesh Phogat | Trending News | Tamil news</title>
     <desc lang="en">#sunnewslive  #sunnews #wayanad | #SchoolLeave | #Chennairain | #TNRain | #Kalaignar#mkstalin #hogenakkalwaterfalls #hogenakkal #krsdam #tamilnadunews #chenn...</desc>
@@ -122,14 +117,14 @@
     <desc lang="en">#sunnewslive  #sunnews #wayanad | #SchoolLeave | #Chennairain | #TNRain | #Kalaignar#mkstalin #hogenakkalwaterfalls #hogenakkal #krsdam #tamilnadunews #chenn...</desc>
     <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="SunNews.yt" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">🔴LIVE : Sun News Live | Latest News | Wayanad landslide | Vinesh Phogat | Trending News | Tamil news</title>
+    <desc lang="en">#sunnewslive  #sunnews #wayanad | #SchoolLeave | #Chennairain | #TNRain | #Kalaignar#mkstalin #hogenakkalwaterfalls #hogenakkal #krsdam #tamilnadunews #chenn...</desc>
+    <icon src="https://i.ytimg.com/vi/9M02G5c6x6w/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Polimer.yt">
     <display-name lang="en">Polimer News</display-name>
   </channel>
-  <programme channel="Polimer.yt" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">🔴LIVE : Polimer News | Olympic 2024 | Vinesh Phogat | PM Modi | Mettur | Kerala Landslide | Wayanad</title>
-    <desc lang="en">🔴LIVE : Polimer News | Olympic 2024 | Vinesh Phogat | PM Modi | Mettur | Kerala Landslide | Wayanad#PMModi | #BJP  | #NirmalaSitharaman | #UnionBudget | #Un...</desc>
-    <icon src="https://i.ytimg.com/vi/ZbCtq8tLi2A/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="Polimer.yt" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">🔴LIVE : Polimer News | Olympic 2024 | Vinesh Phogat | PM Modi | Mettur | Kerala Landslide | Wayanad</title>
     <desc lang="en">🔴LIVE : Polimer News | Olympic 2024 | Vinesh Phogat | PM Modi | Mettur | Kerala Landslide | Wayanad#PMModi | #BJP  | #NirmalaSitharaman | #UnionBudget | #Un...</desc>
@@ -245,14 +240,14 @@
     <desc lang="en">🔴LIVE : Polimer News | Olympic 2024 | Vinesh Phogat | PM Modi | Mettur | Kerala Landslide | Wayanad#PMModi | #BJP  | #NirmalaSitharaman | #UnionBudget | #Un...</desc>
     <icon src="https://i.ytimg.com/vi/ZbCtq8tLi2A/hqdefault_live.jpg"/>
   </programme>
+  <programme channel="Polimer.yt" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">🔴LIVE : Polimer News | Olympic 2024 | Vinesh Phogat | PM Modi | Mettur | Kerala Landslide | Wayanad</title>
+    <desc lang="en">🔴LIVE : Polimer News | Olympic 2024 | Vinesh Phogat | PM Modi | Mettur | Kerala Landslide | Wayanad#PMModi | #BJP  | #NirmalaSitharaman | #UnionBudget | #Un...</desc>
+    <icon src="https://i.ytimg.com/vi/ZbCtq8tLi2A/hqdefault_live.jpg"/>
+  </programme>
   <channel id="puthiyathalaimurai.yt">
     <display-name lang="en">Puthiya thalaimurai News</display-name>
   </channel>
-  <programme channel="puthiyathalaimurai.yt" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">🔴LIVE: Puthiyathalaimurai News | Vinesh Phogat | Olympic Games Paris 2024 | M.K.Stalin to Visit U.S</title>
-    <desc lang="en">#PuthiyaThalaimuraiTV #vineshphogat #OlympicGamesParis2024 #WaqfBillparliament #TnRainNews #MkStalinNewsToday #ParalympicGames #IndianAthletes #parliamentnew...</desc>
-    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="puthiyathalaimurai.yt" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">🔴LIVE: Puthiyathalaimurai News | Vinesh Phogat | Olympic Games Paris 2024 | M.K.Stalin to Visit U.S</title>
     <desc lang="en">#PuthiyaThalaimuraiTV #vineshphogat #OlympicGamesParis2024 #WaqfBillparliament #TnRainNews #MkStalinNewsToday #ParalympicGames #IndianAthletes #parliamentnew...</desc>
@@ -368,14 +363,14 @@
     <desc lang="en">#PuthiyaThalaimuraiTV #vineshphogat #OlympicGamesParis2024 #WaqfBillparliament #TnRainNews #MkStalinNewsToday #ParalympicGames #IndianAthletes #parliamentnew...</desc>
     <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="puthiyathalaimurai.yt" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">🔴LIVE: Puthiyathalaimurai News | Vinesh Phogat | Olympic Games Paris 2024 | M.K.Stalin to Visit U.S</title>
+    <desc lang="en">#PuthiyaThalaimuraiTV #vineshphogat #OlympicGamesParis2024 #WaqfBillparliament #TnRainNews #MkStalinNewsToday #ParalympicGames #IndianAthletes #parliamentnew...</desc>
+    <icon src="https://i.ytimg.com/vi/RUzgphgBRzI/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="news18.yt">
     <display-name lang="en">News18</display-name>
   </channel>
-  <programme channel="news18.yt" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">🔴LIVE:News18 Tamil Nadu | Vinesh Phogat | Paris 2024 Olympics | Rain | BJP | Parliament | Tamil News</title>
-    <desc lang="en">🔴LIVE:News18 Tamil Nadu | Vinesh Phogat | Paris 2024 Olympics | Rain | BJP | Parliament | Tamil News#VineshPhogat  #olympicGamesParis2024  #News18TamilNadu ...</desc>
-    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
-  </programme>
   <programme channel="news18.yt" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">🔴LIVE:News18 Tamil Nadu | Vinesh Phogat | Paris 2024 Olympics | Rain | BJP | Parliament | Tamil News</title>
     <desc lang="en">🔴LIVE:News18 Tamil Nadu | Vinesh Phogat | Paris 2024 Olympics | Rain | BJP | Parliament | Tamil News#VineshPhogat  #olympicGamesParis2024  #News18TamilNadu ...</desc>
@@ -491,14 +486,14 @@
     <desc lang="en">🔴LIVE:News18 Tamil Nadu | Vinesh Phogat | Paris 2024 Olympics | Rain | BJP | Parliament | Tamil News#VineshPhogat  #olympicGamesParis2024  #News18TamilNadu ...</desc>
     <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
   </programme>
+  <programme channel="news18.yt" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">🔴LIVE:News18 Tamil Nadu | Vinesh Phogat | Paris 2024 Olympics | Rain | BJP | Parliament | Tamil News</title>
+    <desc lang="en">🔴LIVE:News18 Tamil Nadu | Vinesh Phogat | Paris 2024 Olympics | Rain | BJP | Parliament | Tamil News#VineshPhogat  #olympicGamesParis2024  #News18TamilNadu ...</desc>
+    <icon src="https://i.ytimg.com/vi/lnHtG9YLqo4/hqdefault_live.jpg"/>
+  </programme>
   <channel id="Thanthi.yt">
     <display-name lang="en">Thanthi News</display-name>
   </channel>
-  <programme channel="Thanthi.yt" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">🔴LIVE : ThanthiTV | DMK | MK Stalin | EPS | ADMK | Modi | Olympic 2024 | Kerala Landslide | Wayanad</title>
-    <desc lang="en">🔴LIVE: ThanthiTV | DMK | MK Stalin | PMK | EPS | ADMK | NTK | Seeman | Anbumani | TNPL | TVK Vijay | Sasikala | TTV Dhinakaran | Anniyur Siva | BJP | Annama...</desc>
-    <icon src="https://i.ytimg.com/vi/j1nzTy5q_1Y/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="Thanthi.yt" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">🔴LIVE : ThanthiTV | DMK | MK Stalin | EPS | ADMK | Modi | Olympic 2024 | Kerala Landslide | Wayanad</title>
     <desc lang="en">🔴LIVE: ThanthiTV | DMK | MK Stalin | PMK | EPS | ADMK | NTK | Seeman | Anbumani | TNPL | TVK Vijay | Sasikala | TTV Dhinakaran | Anniyur Siva | BJP | Annama...</desc>
@@ -614,14 +609,14 @@
     <desc lang="en">🔴LIVE: ThanthiTV | DMK | MK Stalin | PMK | EPS | ADMK | NTK | Seeman | Anbumani | TNPL | TVK Vijay | Sasikala | TTV Dhinakaran | Anniyur Siva | BJP | Annama...</desc>
     <icon src="https://i.ytimg.com/vi/j1nzTy5q_1Y/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="Thanthi.yt" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">🔴LIVE : ThanthiTV | DMK | MK Stalin | EPS | ADMK | Modi | Olympic 2024 | Kerala Landslide | Wayanad</title>
+    <desc lang="en">🔴LIVE: ThanthiTV | DMK | MK Stalin | PMK | EPS | ADMK | NTK | Seeman | Anbumani | TNPL | TVK Vijay | Sasikala | TTV Dhinakaran | Anniyur Siva | BJP | Annama...</desc>
+    <icon src="https://i.ytimg.com/vi/j1nzTy5q_1Y/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="NewsJ.Direct">
     <display-name lang="en">NewsJ</display-name>
   </channel>
-  <programme channel="NewsJ.Direct" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">🔴LIVE | News J Tamil LIVE | Tamilnadu | Say No To Drugs &amp; DMK | Edappadi K Palanisamy | News J</title>
-    <desc lang="en">🔴LIVE | News J Tamil LIVE | Tamilnadu | Say No To Drugs &amp; DMK | Edappadi K Palanisamy | News J#LokSabhaElections2024 | #NarendraModi |#BJP | #ElectionResult...</desc>
-    <icon src="https://i.ytimg.com/vi/jdtQ0Ij0o68/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="NewsJ.Direct" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">🔴LIVE | News J Tamil LIVE | Tamilnadu | Say No To Drugs &amp; DMK | Edappadi K Palanisamy | News J</title>
     <desc lang="en">🔴LIVE | News J Tamil LIVE | Tamilnadu | Say No To Drugs &amp; DMK | Edappadi K Palanisamy | News J#LokSabhaElections2024 | #NarendraModi |#BJP | #ElectionResult...</desc>
@@ -737,14 +732,14 @@
     <desc lang="en">🔴LIVE | News J Tamil LIVE | Tamilnadu | Say No To Drugs &amp; DMK | Edappadi K Palanisamy | News J#LokSabhaElections2024 | #NarendraModi |#BJP | #ElectionResult...</desc>
     <icon src="https://i.ytimg.com/vi/jdtQ0Ij0o68/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="NewsJ.Direct" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">🔴LIVE | News J Tamil LIVE | Tamilnadu | Say No To Drugs &amp; DMK | Edappadi K Palanisamy | News J</title>
+    <desc lang="en">🔴LIVE | News J Tamil LIVE | Tamilnadu | Say No To Drugs &amp; DMK | Edappadi K Palanisamy | News J#LokSabhaElections2024 | #NarendraModi |#BJP | #ElectionResult...</desc>
+    <icon src="https://i.ytimg.com/vi/jdtQ0Ij0o68/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="newstamil.yt">
     <display-name lang="en">NewsTamil</display-name>
   </channel>
-  <programme channel="newstamil.yt" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">NewsTamil 24x7 Live | Vinesh Phogat | Paris Olympics 2024 | Muhammad Yunus | Tamil News Live</title>
-    <desc lang="en">#NewsTamil24x7 #NewsTamil #Tamilnews #wayanadlandslide #wayanadnews #vayanadinamposter #ParisOlympics #VineshPhogat #EngineeringCounselling #armstrongbsp #dm...</desc>
-    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
-  </programme>
   <programme channel="newstamil.yt" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">NewsTamil 24x7 Live | Vinesh Phogat | Paris Olympics 2024 | Muhammad Yunus | Tamil News Live</title>
     <desc lang="en">#NewsTamil24x7 #NewsTamil #Tamilnews #wayanadlandslide #wayanadnews #vayanadinamposter #ParisOlympics #VineshPhogat #EngineeringCounselling #armstrongbsp #dm...</desc>
@@ -860,14 +855,14 @@
     <desc lang="en">#NewsTamil24x7 #NewsTamil #Tamilnews #wayanadlandslide #wayanadnews #vayanadinamposter #ParisOlympics #VineshPhogat #EngineeringCounselling #armstrongbsp #dm...</desc>
     <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
   </programme>
+  <programme channel="newstamil.yt" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">NewsTamil 24x7 Live | Vinesh Phogat | Paris Olympics 2024 | Muhammad Yunus | Tamil News Live</title>
+    <desc lang="en">#NewsTamil24x7 #NewsTamil #Tamilnews #wayanadlandslide #wayanadnews #vayanadinamposter #ParisOlympics #VineshPhogat #EngineeringCounselling #armstrongbsp #dm...</desc>
+    <icon src="https://i.ytimg.com/vi/jueJiFeTjR4/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="News7.direct">
     <display-name lang="en">News7</display-name>
   </channel>
-  <programme channel="News7.direct" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">News7 Tamil Online | Watch News7 Tamil Live | News7 Tamil  Live</title>
-    <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="News7.direct" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">News7 Tamil Online | Watch News7 Tamil Live | News7 Tamil  Live</title>
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
@@ -983,14 +978,14 @@
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="News7.direct" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">News7 Tamil Online | Watch News7 Tamil Live | News7 Tamil  Live</title>
+    <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="kalaignar.direct">
     <display-name lang="en">Kalaignar</display-name>
   </channel>
-  <programme channel="kalaignar.direct" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">Kalaignar</title>
-    <desc lang="en">Kalaignar</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="kalaignar.direct" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">Kalaignar</title>
     <desc lang="en">Kalaignar</desc>
@@ -1106,14 +1101,14 @@
     <desc lang="en">Kalaignar</desc>
     <icon src=""/>
   </programme>
+  <programme channel="kalaignar.direct" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
   <channel id="polimerdirect.direct">
     <display-name lang="en">PolimerDirect</display-name>
   </channel>
-  <programme channel="polimerdirect.direct" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">PolimerDirect</title>
-    <desc lang="en">PolimerDirect</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="polimerdirect.direct" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">PolimerDirect</title>
     <desc lang="en">PolimerDirect</desc>
@@ -1229,14 +1224,14 @@
     <desc lang="en">PolimerDirect</desc>
     <icon src=""/>
   </programme>
+  <programme channel="polimerdirect.direct" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">PolimerDirect</title>
+    <desc lang="en">PolimerDirect</desc>
+    <icon src=""/>
+  </programme>
   <channel id="peppertv.yupp">
     <display-name lang="en">pepperTV</display-name>
   </channel>
-  <programme channel="peppertv.yupp" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
-    <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="peppertv.yupp" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
     <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
@@ -1352,14 +1347,14 @@
     <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="peppertv.yupp" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
+    <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="moontv.direct">
     <display-name lang="en">moonTV</display-name>
   </channel>
-  <programme channel="moontv.direct" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
-    <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="moontv.direct" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
     <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
@@ -1475,14 +1470,14 @@
     <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="moontv.direct" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
+    <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="thalaaTV.yupp">
     <display-name lang="en">thalaaTV</display-name>
   </channel>
-  <programme channel="thalaaTV.yupp" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
-    <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="thalaaTV.yupp" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
     <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
@@ -1598,14 +1593,14 @@
     <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="thalaaTV.yupp" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
+    <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="4KTravel.yupp">
     <display-name lang="en">4KTravel</display-name>
   </channel>
-  <programme channel="4KTravel.yupp" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">HD TRAVEL TV Online | Watch HD TRAVEL TV Live | HD TRAVEL TV English Live</title>
-    <desc lang="en">Watch HD TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel HD TRAVEL TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="4KTravel.yupp" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">HD TRAVEL TV Online | Watch HD TRAVEL TV Live | HD TRAVEL TV English Live</title>
     <desc lang="en">Watch HD TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel HD TRAVEL TV on your Smart TV, Mobile, etc.</desc>
@@ -1721,14 +1716,14 @@
     <desc lang="en">Watch HD TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel HD TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="4KTravel.yupp" start="20240809120000 +0530" stop="20240809130000 +0530">
+    <title lang="en">HD TRAVEL TV Online | Watch HD TRAVEL TV Live | HD TRAVEL TV English Live</title>
+    <desc lang="en">Watch HD TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel HD TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="athavan.yupp">
     <display-name lang="en">athavan</display-name>
   </channel>
-  <programme channel="athavan.yupp" start="20240808120000 +0530" stop="20240808130000 +0530">
-    <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
-    <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="athavan.yupp" start="20240808130000 +0530" stop="20240808140000 +0530">
     <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
     <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
@@ -1840,6 +1835,11 @@
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="athavan.yupp" start="20240809110000 +0530" stop="20240809120000 +0530">
+    <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
+    <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="athavan.yupp" start="20240809120000 +0530" stop="20240809130000 +0530">
     <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
     <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
