@@ -2,11 +2,6 @@
   <channel id="News7.direct">
     <display-name lang="en">News7</display-name>
   </channel>
-  <programme channel="News7.direct" start="20240808220000 +0530" stop="20240808230000 +0530">
-    <title lang="en">News7 Tamil Online | Watch News7 Tamil Live | News7 Tamil  Live</title>
-    <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="News7.direct" start="20240808230000 +0530" stop="20240809000000 +0530">
     <title lang="en">News7 Tamil Online | Watch News7 Tamil Live | News7 Tamil  Live</title>
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
@@ -122,14 +117,14 @@
     <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="News7.direct" start="20240809220000 +0530" stop="20240809230000 +0530">
+    <title lang="en">News7 Tamil Online | Watch News7 Tamil Live | News7 Tamil  Live</title>
+    <desc lang="en">Watch News7 Tamil Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on  News channel News7 Tamil on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="kalaignar.direct">
     <display-name lang="en">Kalaignar</display-name>
   </channel>
-  <programme channel="kalaignar.direct" start="20240808220000 +0530" stop="20240808230000 +0530">
-    <title lang="en">Kalaignar</title>
-    <desc lang="en">Kalaignar</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="kalaignar.direct" start="20240808230000 +0530" stop="20240809000000 +0530">
     <title lang="en">Kalaignar</title>
     <desc lang="en">Kalaignar</desc>
@@ -245,14 +240,14 @@
     <desc lang="en">Kalaignar</desc>
     <icon src=""/>
   </programme>
+  <programme channel="kalaignar.direct" start="20240809220000 +0530" stop="20240809230000 +0530">
+    <title lang="en">Kalaignar</title>
+    <desc lang="en">Kalaignar</desc>
+    <icon src=""/>
+  </programme>
   <channel id="polimerdirect.direct">
     <display-name lang="en">PolimerDirect</display-name>
   </channel>
-  <programme channel="polimerdirect.direct" start="20240808220000 +0530" stop="20240808230000 +0530">
-    <title lang="en">PolimerDirect</title>
-    <desc lang="en">PolimerDirect</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="polimerdirect.direct" start="20240808230000 +0530" stop="20240809000000 +0530">
     <title lang="en">PolimerDirect</title>
     <desc lang="en">PolimerDirect</desc>
@@ -368,14 +363,14 @@
     <desc lang="en">PolimerDirect</desc>
     <icon src=""/>
   </programme>
+  <programme channel="polimerdirect.direct" start="20240809220000 +0530" stop="20240809230000 +0530">
+    <title lang="en">PolimerDirect</title>
+    <desc lang="en">PolimerDirect</desc>
+    <icon src=""/>
+  </programme>
   <channel id="peppertv.yupp">
     <display-name lang="en">pepperTV</display-name>
   </channel>
-  <programme channel="peppertv.yupp" start="20240808220000 +0530" stop="20240808230000 +0530">
-    <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
-    <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="peppertv.yupp" start="20240808230000 +0530" stop="20240809000000 +0530">
     <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
     <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
@@ -491,14 +486,14 @@
     <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="peppertv.yupp" start="20240809220000 +0530" stop="20240809230000 +0530">
+    <title lang="en">Peppers TV Online | Watch Peppers TV Live | Peppers TV Tamil Live</title>
+    <desc lang="en">Watch Peppers TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Peppers TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="moontv.direct">
     <display-name lang="en">moonTV</display-name>
   </channel>
-  <programme channel="moontv.direct" start="20240808220000 +0530" stop="20240808230000 +0530">
-    <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
-    <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="moontv.direct" start="20240808230000 +0530" stop="20240809000000 +0530">
     <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
     <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
@@ -614,14 +609,14 @@
     <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="moontv.direct" start="20240809220000 +0530" stop="20240809230000 +0530">
+    <title lang="en">Moon TV Online | Watch Moon TV Live | Moon TV Tamil Live</title>
+    <desc lang="en">Watch Moon TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Entertainment channel Moon TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="thalaaTV.yupp">
     <display-name lang="en">thalaaTV</display-name>
   </channel>
-  <programme channel="thalaaTV.yupp" start="20240808220000 +0530" stop="20240808230000 +0530">
-    <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
-    <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="thalaaTV.yupp" start="20240808230000 +0530" stop="20240809000000 +0530">
     <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
     <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
@@ -737,14 +732,14 @@
     <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="thalaaTV.yupp" start="20240809220000 +0530" stop="20240809230000 +0530">
+    <title lang="en">THALAA TV Online | Watch THALAA TV Live | THALAA TV Tamil Live</title>
+    <desc lang="en">Watch THALAA TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil Movies channel THALAA TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="4KTravel.yupp">
     <display-name lang="en">4KTravel</display-name>
   </channel>
-  <programme channel="4KTravel.yupp" start="20240808220000 +0530" stop="20240808230000 +0530">
-    <title lang="en">HD TRAVEL TV Online | Watch HD TRAVEL TV Live | HD TRAVEL TV English Live</title>
-    <desc lang="en">Watch HD TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel HD TRAVEL TV on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="4KTravel.yupp" start="20240808230000 +0530" stop="20240809000000 +0530">
     <title lang="en">HD TRAVEL TV Online | Watch HD TRAVEL TV Live | HD TRAVEL TV English Live</title>
     <desc lang="en">Watch HD TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel HD TRAVEL TV on your Smart TV, Mobile, etc.</desc>
@@ -860,14 +855,14 @@
     <desc lang="en">Watch HD TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel HD TRAVEL TV on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
+  <programme channel="4KTravel.yupp" start="20240809220000 +0530" stop="20240809230000 +0530">
+    <title lang="en">HD TRAVEL TV Online | Watch HD TRAVEL TV Live | HD TRAVEL TV English Live</title>
+    <desc lang="en">Watch HD TRAVEL TV Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on English LifeStyle channel HD TRAVEL TV on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
   <channel id="athavan.yupp">
     <display-name lang="en">athavan</display-name>
   </channel>
-  <programme channel="athavan.yupp" start="20240808220000 +0530" stop="20240808230000 +0530">
-    <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
-    <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
-    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
-  </programme>
   <programme channel="athavan.yupp" start="20240808230000 +0530" stop="20240809000000 +0530">
     <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
     <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
@@ -979,6 +974,11 @@
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
   </programme>
   <programme channel="athavan.yupp" start="20240809210000 +0530" stop="20240809220000 +0530">
+    <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
+    <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
+    <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
+  </programme>
+  <programme channel="athavan.yupp" start="20240809220000 +0530" stop="20240809230000 +0530">
     <title lang="en">Athavan TV HD Online | Watch Athavan TV HD Live | Athavan TV HD Tamil Live</title>
     <desc lang="en">Watch Athavan TV HD Live online anytime anywhere through YuppTV. Access your favourite TV shows and programs on Tamil News channel Athavan TV HD on your Smart TV, Mobile, etc.</desc>
     <icon src="https://yuppstatic.akamaized.net/yupptv/seo_images/1200x628/fb-post.jpg"/>
